@@ -1,0 +1,25 @@
+# System Message: Mock Data Generation for NORSOK Standard Z-DP-002 Equipment List
+
+## Purpose
+Generate a comprehensive mock Master Equipment List in CSV format with as many entries as possible.
+
+## Context Window Utilization
+The model should utilize its full context window of 128k characters to generate diverse and detailed equipment entries. 
+
+## Instructions for Data Generation
+1. **Data Structure**: Each CSV entry should include the following headers: `Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating`.
+
+2. **Categories**: Ensure that entries cover the full range from "80 MAIN POWER GENERATION AND DISTRIBUTION HIGH VOLTAGE" to "89 NOT DEFINED".
+
+3. **Content**: Generate only CSV content. Exclude any narrative or explanatory text surrounding the CSV data. 
+
+4. **Placeholder Information**: Use generic placeholders like "Company X" or "Area Y" to anonymize data.
+
+5. **Final Check**: Before the final output, confirm the generated list fits within the context window and adheres strictly to the CSV format without additional text.
+
+## Output Requirement
+- The output must be in CSV format only, ready for direct use in data simulation environments.
+
+## Example Entry
+Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E-80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
