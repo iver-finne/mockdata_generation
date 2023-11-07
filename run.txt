@@ -1,0 +1,33 @@
+import openai
+import csv
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+
+client = openai.OpenAI(api_key=OPENAI_API_KEY)
+
+with open('prompt.txt', 'r') as file:
+    system_message = file.read()
+
+def get_response(prompt):
+    return client.chat.completions.create(
+        model="gpt-4-1106-preview",
+        messages=[{"role": "system", "content": prompt}]
+    )
+
+with open('equipment_list.csv', 'w', newline='') as csvfile:
+    csv_writer = csv.writer(csvfile)
+    csv_headers = ['Tag', 'Description', 'Status', 'Type', 'System', 'Responsible', 'Dimensions', 'Weight', 'Voltage', 'Current', 'Frequency', 'IP_Rating']
+    csv_writer.writerow(csv_headers)
+    
+    response = get_response(system_message)
+    csv_content = response.choices[0].message.content
+    
+    for row in csv_content.strip().split('\n')[1:]:
+        csv_writer.writerow(row.split(','))
+
+context_length = response['usage']['total_tokens']
+print(f"Total context window length: {context_length}")
