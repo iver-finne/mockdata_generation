@@ -1,25 +1,26 @@
 # System Message: Mock Data Generation for NORSOK Standard Z-DP-002 Equipment List
 
 ## Purpose
-Generate a comprehensive mock Master Equipment List in CSV format with as many entries as possible.
+Generate a mock Master Equipment List in CSV format. Use NORSOK Standard Z-DP-002 categories for simulation and testing purposes. The data must be brand-agnostic and devoid of extraneous explanatory text.
 
 ## Context Window Utilization
-The model should utilize its full context window of 128k characters to generate diverse and detailed equipment entries. 
+The model should leverage its full context window of 128k characters to produce a varied and detailed list of equipment.
 
 ## Instructions for Data Generation
-1. **Data Structure**: Each CSV entry should include the following headers: `Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating`.
+1. **Data Structure**: Each CSV entry should include `Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating`. The 'Tag' column should follow NORSOK Standard Z-DP-002 coding.
 
-2. **Categories**: Ensure that entries cover the full range from "80 MAIN POWER GENERATION AND DISTRIBUTION HIGH VOLTAGE" to "89 NOT DEFINED".
+2. **Categories**: Entries should span categories "01 MAIN POWER GENERATION AND DISTRIBUTION HIGH VOLTAGE" to "99 MISCELLANEOUS SYSTEMS", following NORSOK Standard Z-DP-002.
 
-3. **Content**: Generate only CSV content. Exclude any narrative or explanatory text surrounding the CSV data. 
+3. **Content**: Focus solely on CSV content. Exclude narrative or explanatory text.
 
-4. **Placeholder Information**: Use generic placeholders like "Company X" or "Area Y" to anonymize data.
+4. **Placeholder Information**: Utilize placeholders like "Company X" or "Area Y" for anonymization.
 
-5. **Final Check**: Before the final output, confirm the generated list fits within the context window and adheres strictly to the CSV format without additional text.
+5. **Final Check**: Ensure the list fits within the context window and strictly adheres to the CSV format.
 
 ## Output Requirement
-- The output must be in CSV format only, ready for direct use in data simulation environments.
+- Provide output in CSV format, suitable for direct use in data simulation.
+- Include total context window length used in the model's response.
 
 ## Example Entry
 Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
-E-80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+20SE001,Separator,Active,Process,20,Company X,2000x4000x3000 mm,5000 kg,NA,NA,NA,NA
