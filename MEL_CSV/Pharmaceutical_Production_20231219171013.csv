@@ -1,0 +1,27 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer Unit,Operational,Transformer,80,Company X,2500x4000x3500 mm,10000 kg,13.8 kV,500 A,60 Hz,IP43
+E80003,Diesel Generator Set,Maintenance,Generator,80,Company X,4500x1500x2200 mm,8500 kg,480 V,2000 A,60 Hz,IP23
+E80004,Electricity Distribution Panel,Operational,EDS,80,Company X,800x600x2200 mm,500 kg,400 V,1200 A,50 Hz,IP54
+E80101,Uninterruptible Power Supply,Active,UPS,80,Company X,600x800x1600 mm,300 kg,220 V,100 A,50 Hz,IP21
+E80102,Battery Charger Station,Operational,Charging Station,80,Company X,550x400x1050 mm,100 kg,110 V,50 A,60 Hz,IP20
+E80103,High Voltage Cabling,Active,Cabling,80,Company X,N/A,Varies,145 kV,Varies,50 Hz,N/A
+E80201,VFD for HVAC System,Operational,VFD,81,Company X,600x500x1200 mm,150 kg,480 V,100 A,60 Hz,IP55
+E80202,Lighting Control Panel,Active,Control Panel,81,Company X,300x500x800 mm,80 kg,230 V,20 A,50 Hz,IP30
+E80301,PLC for Bottle Filling Machine,Operational,PLC,82,Company X,400x300x600 mm,50 kg,24 V DC,10 A,DC,IP65
+E80302,Smart Temperature Sensor,Operational,Sensor,82,Company X,100x100x80 mm,0.5 kg,24 V DC,100 mA,DC,IP67
+E80303,Humidity Sensor,Active,Sensor,82,Company X,80x80x60 mm,0.3 kg,24 V DC,100 mA,DC,IP65
+E80401,High-Efficiency Particulate Air Filter,Operational,Air Filter,83,Company X,600x600x292 mm,15 kg,N/A,N/A,N/A,IP54
+E80402,Clean Room Air Handling Unit,Active,Air Handling Unit,83,Company X,3200x2200x2000 mm,800 kg,230 V,10 A,50 Hz,IP54
+E80501,Water Purification System,Operational,Purification Unit,84,Company X,2900x1200x1300 mm,1200 kg,N/A,N/A,N/A,IP65
+E80502,Ultrafiltration Module,Active,Filtration,84,Company X,2500x800x1600 mm,500 kg,N/A,N/A,N/A,IP66
+E80601,Steam Boiler,Operational,Boiler,85,Company X,4000x2500x2700 mm,7000 kg,380 V,50 A,50 Hz,IP40
+E80602,Condensate Recovery System,Active,Recovery System,85,Company X,1500x1500x1000 mm,320 kg,N/A,N/A,N/A,IP54
+E80701,Sterilization Tunnel,Operational,Sterilizer,86,Company X,4500x1500x1700 mm,3000 kg,400 V,150 A,50 Hz,IP54
+E80702,Depyrogenation Oven,Active,Oven,86,Company X,2000x1000x2000 mm,1200 kg,230 V,60 A,50 Hz,IP54
+E80801,Tablet Press Machine,Maintenance,Tablet Press,87,Area Y,2000x2000x1800 mm,2800 kg,415 V,25 A,50 Hz,IP65
+E80802,Capsule Filling Machine,Operational,Capsule Filler,87,Area Y,1500x1000x1900 mm,1500 kg,240 V,20 A,50 Hz,IP54
+E80803,Labeling Machine,Operational,Labeler,87,Area Y,2500x1200x1500 mm,800 kg,110 V,15 A,60 Hz,IP55
+E80901,Automated Inspection System,Active,Inspection System,88,Area Y,2200x2000x1800 mm,500 kg,220 V,10 A,60 Hz,IP64
+E80902,Packaging Line Conveyor System,Maintenance,Conveyor,88,Area Y,10000x1200x1000 mm,1500 kg,230 V,5 A,50 Hz,IP54
+E80903,Automation Software Control System,Operational,Software,88,Area Y,N/A,N/A,N/A,N/A,N/A,IP00
+E80904,Chemical Storage Tank,Operational,Tank,88,Company X,2500x2500x3000 mm,2500 kg,N/A,N/A,N/A,IP68"

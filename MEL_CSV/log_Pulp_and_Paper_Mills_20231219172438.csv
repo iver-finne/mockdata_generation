@@ -1,0 +1,35 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Main Generator Transformer,Active,Transformer,80,Company X,3500x5000x4000 mm,12000 kg,220 kV,500 A,60 Hz,IP55
+E81001,Medium Voltage Distribution Panel,Active,MCC,81,Area Y,1200x2200x800 mm,800 kg,4.16 kV,1200 A,60 Hz,IP42
+E81002,Step-down Transformer,Active,Transformer,81,Company X,2500x2500x4500 mm,6000 kg,3.3 kV,2000 A,60 Hz,IP54
+E82001,Low Voltage Motor Control Center,Active,MCC,82,Area Z,2000x1500x600 mm,1500 kg,480 V,2500 A,50 Hz,IP55
+E82002,Backup Power UPS,Active,SUPS,82,Company X,800x1600x1800 mm,900 kg,400 V,1000 A,50 Hz,IP23
+E83001,Emergency Diesel Generator,Active,GenSet,83,Company X,6000x2000x2500 mm,10000 kg,480 V,2000 A,60 Hz,IP44
+E84001,Fire Pump Electric Driver,Active,EDP,84,Area Y,1800x800x1200 mm,600 kg,440 V,100 A,60 Hz,IP55
+E85001,Industrial Batteries,Active,Battery,85,Company X,2000x1000x1500 mm,3000 kg,-,-,-,IP30
+E86001,Broadband Communication Router,Active,Router,86,Area Z,600x400x200 mm,5 kg,5 V,3 A,-,IP20
+E87001,Pressure Transmitter,Active,Transmitter,87,Company X,100x150x100 mm,2 kg,24 V,-,50 Hz,IP67
+E87002,Flow Controller,Active,Controller,87,Area Y,150x200x120 mm,1.6 kg,24 V,-,60 Hz,IP65
+E88001,Grounding System,Active,GroundRod,88,Company X,-,-,-,-,-,-
+E88002,Lightning Arrester,Active,Arrester,88,Area Z,500x500x1000 mm,50 kg,10 kV,-,-,IP68
+E89001,Steam System Control Unit,Active,ControlUnit,89,Company X,600x800x400 mm,80 kg,-,-,-,IP54
+E80003,High Voltage Power Cable,Active,Cable,80,Area Y,-,1 kg/m,110 kV,500 A,50 Hz,-
+E81003,Medium Voltage Soft Starter,Active,SoftStarter,81,Company X,800x600x2000 mm,220 kg,6.6 kV,800 A,60 Hz,IP00
+E82003,Low Voltage Drives,Active,Drives,82,Area Z,1000x1200x1900 mm,500 kg,690 V,600 A,60 Hz,IP21
+E83002,Emergency Lighting System,Active,Lighting,83,Company X,1000x200x100 mm,3 kg,230 V,0.5 A,50 Hz,IP65
+E84002,Standby Power Switchboard,Active,Switchboard,84,Area Y,3000x1500x2000 mm,2200 kg,400 V,1600 A,50 Hz,IP54
+E85002,Uninterruptible Power Supply System,Active,UPS,85,Company X,600x800x1500 mm,200 kg,220 V,200 A,60 Hz,IP20
+E86002,VOIP Telephone System,Active,VoipPhone,86,Area Z,200x300x100 mm,1.2 kg,48 V,0.2 A,-,IP20
+E87003,Gas Detection System,Active,GasDetector,87,Company X,400x600x200 mm,5.5 kg,24 V,-,-,IP65
+E88003,Earth Busbar,Active,Busbar,88,Area Y,50x5000x10 mm,15 kg,-,-,-,IP00
+E89002,Belt Weigher Control System,Active,WeighController,89,Company X,300x500x200 mm,10 kg,240 V,10 A,50 Hz,IP52
+E80004,Power Line Carrier Communication Equipment,Active,PLCCom,80,Company X,1200x800x600 mm,40 kg,33 kV,-,50 Hz,IP30
+E81004,Medium Voltage Power Factor Correction Unit,Active,PFCUnit,81,Area Y,2500x1500x2500 mm,1500 kg,6.6 kV,1500 A,60 Hz,IP41
+E82004,Automatic Transfer Switch,Active,ATS,82,Area Z,600x400x300 mm,30 kg,240 V,100 A,50 Hz,IP22
+E83003,Emergency Power Off System,Active,EPO,83,Company X,200x200x150 mm,2.5 kg,24 V,10 A,DC,IP65
+E84003,Portable Generator Set,Active,GenSet,84,Area Y,1500x600x1000 mm,200 kg,110 V,300 A,60 Hz,IP44
+E85003,Solar Power Charge Controller,Active,ChargeCont,85,Company X,400x300x200 mm,3.6 kg,12 V,20 A,-,IP65
+E86003,Fiber Optic Distribution Frame,Active,FODF,86,Area Z,800x300x900 mm,35 kg,-,-,-,IP20
+E87004,Temperature Sensor,Active,Sensor,87,Company X,150x100x50 mm,0.2 kg,24 V,-,60 Hz,IP68
+E88004,Surge Protection Device,Active,SPD,88,Area Y,100x150x200 mm,1.8 kg,240 V,-,-,IP20
+E89003,Process Heating Control Panel,Active,HeatControl,89,Company X,800x400x1800 mm,160 kg,480 V,30 A,50 Hz,IP54"

@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer T1,Operational,Power Transformer,80,Area Z,3500x2500x3000 mm,6500 kg,132 kV,5000 A,50 Hz,IP55
+E81001,Distribution Panel,Active,Switchboard,81,Company X,2000x5000x2600 mm,2500 kg,3.3 kV,10000 A,60 Hz,IP42
+E81002,Generator G1,Maintenance,Gas Turbine,81,Area Y,4000x6000x3200 mm,12000 kg,4.16 kV,1250 A,60 Hz,IP23
+E82001,Circuit Breaker CB1,Active,ACB,82,Company X,800x600x1000 mm,150 kg,400 V,3200 A,50 Hz,IP31
+E82002,Frequency Inverter,Operational,VFD,82,Area Z,600x500x2100 mm,300 kg,690 V,500 A,0-400 Hz,IP21
+E83001,Emergency Generator Set,Active,Diesel GenSet,83,Company X,4500x15000x4500 mm,20000 kg,400 V,1500 A,50 Hz,IP23
+E83002,Emergency Lighting Panel,To Be Installed,Panel Board,83,Area Y,800x1000x400 mm,50 kg,240 V,10 A,50 Hz,IP65
+E84001,Emergency Power UPS,Operational,Uninterruptible Power Supply,84,Company X,1200x800x1600 mm,400 kg,220 V,500 A,50 Hz,IP40
+E84002,Standby Generator G2,Testing,Diesel Generator,84,Area Z,3500x11200x4000 mm,8500 kg,440 V,1250 A,60 Hz,IP22
+E85001,Industrial Battery Bank,Operational,Lead Acid Battery,85,Company X,2000x500x1500 mm,2000 kg,48 V,800 Ah,DC,IP20
+E85002,Energy Storage System,Commissioning,Lithium-Ion Battery,85,Area Y,2500x600x2000 mm,2500 kg,400 V,1200 Ah,DC,IP30
+E86001,Fiber Optic Transceiver,Active,Optical Module,86,Company X,80x20x10 mm,0.2 kg,NA,10 Gbps,NA,IP40
+E86002,Wireless Access Point,Operational,WiFi AP,86,Area Z,200x200x50 mm,0.5 kg,NA,NA,NA,IP55
+E87001,Programmable Logic Controller,Active,PLC,87,Company X,300x800x1500 mm,20 kg,24 VDC,10 A,DC,IP20
+E87002,Distributed Control System,Under Installation,DCS,87,Area Y,4000x3000x2000 mm,400 kg,120 VAC,50 A,60 Hz,IP65
+E88001,Lightning Arrester,Operational,Surge Protector,88,Company X,100x50x50 mm,1 kg,150 kV,NA,NA,IP55
+E88002,Grounding Rod,Ready for Use,Copper Rod,88,Area Z,3000x14x14 mm,5 kg,NA,NA,NA,NA
+E89001,Display Module,Prototype,LCD Panel,89,Company X,120x70x5 mm,0.3 kg,12 VDC,500 mA,NA,IP30
+E89002,Signal Conditioning Unit,In Design,Electronics Module,89,Area Y,150x100x25 mm,0.5 kg,5 VDC,200 mA,DC,IP20"

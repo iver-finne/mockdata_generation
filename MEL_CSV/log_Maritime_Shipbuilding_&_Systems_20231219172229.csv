@@ -1,0 +1,30 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+G81001,MV Synchronous Generator,Active,GEN,81,Company Y,3500x1500x2200 mm,9000 kg,4.16 kV,1250 A,60 Hz,IP23
+L82002,Low Voltage Distribution Panel,Active,DP,82,Company Z,800x2000x600 mm,350 kg,400 V,630 A,50 Hz,IP42
+E83001,Essential Diesel Generator Set,Maintenance,DG,83,Company X,6000x2300x2500 mm,16000 kg,480 V,200 A,60 Hz,IP22
+B84001,Emergency Diesel Generator Incl. Enclosure,Active,DGE,84,Area C,6500x2500x3000 mm,18000 kg,690 V,500 A,60 Hz,IP23
+B85001,Lead-acid Battery for No-Break System,Active,BAT,85,Area D,520x240x610 mm,120 kg,110 V,200 Ah,DC,IP20
+T86002,Maritime Communication Server,Active,COM,86,Company F,440x600x44 mm,8 kg,N/A,N/A,N/A,IP30
+S87003,Safety Instrumented System,Active,SIS,87,Company X,1600x800x600 mm,400 kg,N/A,N/A,N/A,IP66
+E88001,Shipwide Earthing System,Installed,SYS,88,Company X,N/A,N/A,N/A,N/A,N/A,IP00
+N89000,Unspecified Equipment as Per Project Requirements,Procurement,USR,89,Area Y,N/A,N/A,N/A,N/A,N/A,N/A
+D82010,AC Electric Motor,Operational,MOT,82,Company X,800x400x450 mm,150 kg,230/400 V,15 A,50 Hz,IP55
+G81002,MV Transformer,Active,TRF,81,Area G,3000x1200x1800 mm,5000 kg,3.3 kV/440 V,1500 A,60 Hz,IP43
+E83005,Essential Switchboard,Operational,ESB,83,Company B,2000x500x2200 mm,1200 kg,690 V,800 A,50 Hz,IP54
+B84005,Emergency Lighting System,Installed,ELS,84,Area K,200x500x100 mm,5 kg,230 V,0.5 A,50 Hz,IP65
+B85003,Nickel-Cadmium Battery for UPS,Operational,NUC,85,Area P,710x410x350 mm,200 kg,220 V,300 Ah,DC,IP20
+T86005,Satellite Communication Antenna,Active,SCA,86,Company V,Ø 1500x1200 mm,50 kg,N/A,N/A,N/A,IP56
+S87008,Multipurpose Dynamic Positioning System,Active,DPS,87,Company M,2400x1200x1800 mm,1500 kg,N/A,N/A,N/A,IP44
+E88004,Lightning Protection System,Design,LPS,88,Area S,N/A,N/A,N/A,N/A,N/A,IP00
+N89005,Custom Control Console,Design,CCC,89,Company X,1600x600x1200 mm,300 kg,N/A,N/A,N/A,IP54
+E80003,High Voltage Cable and Accessories,Operational,HVC,80,Area W,N/A,N/A,110 kV,500 A,50 Hz,IP68
+G81005,MV Variable Frequency Drive,Installation,VFD,81,Company R,3200x800x2000 mm,4000 kg,3.3 kV,N/A,0-60 Hz,IP21
+L82015,Power Factor Correction Equipment,Active,PFC,82,Company O,2000x700x1000 mm,1000 kg,400 V,N/A,50 Hz,IP41
+E83008,Essential Power Cable,Operational,EPK,83,Area E,N/A,N/A,1 kV,300 A,DC-AC,IP67
+B84008,Emergency Switchboard,Active,ESW,84,Company H,2200x600x2100 mm,2200 kg,690 V,1000 A,60 Hz,IP22
+B85007,Lithium-ion Battery Pack,Design,LIB,85,Company A,1180x1200x1150 mm,700 kg,480 V,500 Ah,DC,IP65
+T86012,VHF Radio System,Operational,VHF,86,Area L,400x300x200 mm,15 kg,N/A,N/A,N/A,IP68
+S87015,Engine Control System,Installation,ECS,87,Company P,1800x600x1600 mm,600 kg,N/A,N/A,N/A,IP53
+E88010,Vessel Grounding Busbar,Installed,GBB,88,Area Z,4000x50x10 mm,50 kg,N/A,N/A,N/A,IP00
+N89010,Special Purpose Navigation Equipment,Operational,SNE,89,Company L,N/A,N/A,N/A,N/A,N/A,IP32"

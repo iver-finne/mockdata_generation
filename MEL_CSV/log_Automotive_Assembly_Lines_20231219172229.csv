@@ -1,0 +1,16 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Step-up Transformer,Active,Transformer,80,Company X,2500x4000x3200 mm,12000 kg,132 kV,1500 A,50 Hz,IP56
+E81001,Medium Voltage Substation,Active,Switchgear,81,Company X,2200x3500x2600 mm,8000 kg,3.3 kV,2500 A,50 Hz,IP54
+E81002,Main Distribution Panel,Active,Panel Board,81,Company X,2000x5000x2000 mm,5000 kg,6.6 kV,1200 A,50 Hz,IP55
+E82001,Low Voltage Switchboard,Active,Switchboard,82,Company X,1000x2000x2000 mm,1200 kg,400 V,3200 A,50 Hz,IP54
+E82002,Lighting Panel Board,Active,Panel Board,82,Company X,800x2000x600 mm,400 kg,230 V,100 A,50 Hz,IP44
+E83001,Diesel Generator Set,Active,Generator,83,Company X,3500x12000x3000 mm,26000 kg,-,800 A,50 Hz,IP23
+E84001,Emergency Power Supply,Active,UPS,84,Company X,600x1200x1000 mm,200 kg,-,-,50 Hz,IP20
+E85001,Uninterruptible Power Supply System,Active,UPS,85,Company X,500x1000x1500 mm,300 kg,220 V,500 A,50 Hz,IP21
+E86001,Fiber Optic Communication Network,Active,Comm Equipment,86,Company X,-,-,-,-,-,IP00
+E87001,Process Control System,Active,PCS,87,Company X,2000x3000x1800 mm,5000 kg,-,-,-,IP55
+E88001,Ground Rod and Earth Mat,Active,Earthing Equipment,88,Company X,-,-,-,-,-,-
+E88002,Lightning Arrestor System,Active,Lightning Protection,88,Company X,-,-,15 kV,-,-,IP65
+E89001,Custom Assembly Line Robot,Active,Robot,89,Company X,800x1200x1800 mm,450 kg,-,-,-,IP54
+E89002,Paint Dispensing System,Active,Dispenser,89,Company X,1200x800x1400 mm,500 kg,-,-,-,IP54"

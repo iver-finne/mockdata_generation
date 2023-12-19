@@ -1,0 +1,48 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80102,Transformer Oil Cooling System,Active,Cooling,80,Company X,2000x1000x1500 mm,750 kg,144 kV,500 A,50 Hz,IP52
+E80203,Backup Diesel Generator,Active,Generator,80,Company X,3500x1500x2000 mm,4500 kg,145 kV,1500 A,50 Hz,IP55
+E80304,Power Quality Analyzer,Active,Analytical,80,Company X,500x600x300 mm,15 kg,100 kV,5 A,50 Hz,IP43
+E80405,Circuit Breaker Panel,Active,Breaker,80,Company X,800x2000x600 mm,100 kg,145 kV,1000 A,50 Hz,IP54
+E80906,Medium Voltage Distribution Panel,Active,Switchboard,80,Company X,1600x2200x800 mm,900 kg,36 kV,800 A,50 Hz,IP51
+E81007,High Voltage Surge Arrester,Active,Protection,80,Company X,300x300x600 mm,10 kg,145 kV,10 kA,50 Hz,IP65
+E81208,Capacitor Bank,Active,Power Factor,80,Company X,1200x800x1200 mm,300 kg,11 kV,500 kVAR,50 Hz,IP40
+E81509,Battery Charging Station,Active,Charging,80,Company X,600x600x1000 mm,120 kg,415 V,50 A,50 Hz,IP20
+E82010,UPS System,Active,Backup Power,80,Company X,1000x500x1500 mm,200 kg,230 V,30 A,50 Hz,IP21
+E82511,Earthing System Monitor,Active,Monitoring,80,Company X,300x400x150 mm,5 kg,230 V,1 A,50 Hz,IP30
+E83012,Power Factor Correction Unit,Active,Correction,80,Company X,1000x700x1400 mm,250 kg,400 V,60 A,50 Hz,IP42
+E84013,Smart Grid Interface Controller,Active,Controller,80,Company X,600x800x300 mm,20 kg,230 V,10 A,60 Hz,IP66
+E84514,Harmonic Filter System,Active,Filtration,80,Company X,800x800x1200 mm,180 kg,400 V,30 A,50 Hz,IP41
+E85015,Static Transfer Switch,Active,Switchgear,80,Company X,500x700x500 mm,50 kg,230 V,40 A,50/60 Hz,IP52
+E85516,Isolation Transformer,Active,Transformer,80,Company X,900x1200x900 mm,400 kg,120 V,10 A,60 Hz,IP54
+E86017,Electrical Feeder Automation System,Active,Automation,80,Company X,1500x1200x800 mm,800 kg,33 kV,25 A,50 Hz,IP55
+E87018,High Voltage Cable Termination Kit,Active,Termination,80,Company X,450x450x400 mm,20 kg,145 kV,Not Applicable,Not Applicable,IP68
+E88019,Ground Fault Indicator,Active,Safety,80,Company X,200x200x100 mm,1 kg,110 V,5 A,50 Hz,IP67
+E89020,Laboratory Bench Power Supply,Active,Power Supply,89,Company X,300x200x150 mm,3 kg,240 V,10 A,50 Hz,IP50
+E89021,Calibration Equipment,Active,Calibration,89,Company X,500x300x200 mm,4 kg,240 V,5 A,50 Hz,IP50
+E89022,Temperature and Humidity Control Unit,Active,Environment Control,89,Company X,600x350x250 mm,15 kg,230 V,3 A,50 Hz,IP44
+E89023,Digital Oscilloscope,Active,Measurement,89,Company X,400x150x300 mm,2 kg,110 V,1 A,60 Hz,IP40
+E89024,Centrifuge,Active,Laboratory Equipment,89,Company X,580x460x350 mm,35 kg,120 V,10 A,60 Hz,IP20
+E89025,Microscope with Digital Imaging,Active,Imaging,89,Company X,200x300x400 mm,12 kg,100 V,0.5 A,50 Hz,IP40
+E89026,Autoclave Sterilizer,Active,Sterilization,89,Company X,650x550x500 mm,50 kg,220 V,15 A,50 Hz,IP30
+E89027,Biosafety Cabinet,Active,Safety,89,Company X,1200x750x2200 mm,150 kg,240 V,5 A,60 Hz,IP54
+E89028,Fume Hood,Active,Ventilation,89,Company X,1500x800x2400 mm,300 kg,230 V,5 A,60 Hz,IP64
+E89029,Laminar Flow Cabinet,Active,Clean Environment,89,Company X,1100x700x1900 mm,200 kg,220 V,3 A,50 Hz,IP52
+E89030,Mass Spectrometer,Active,Analytical Instrument,89,Company X,1300x800x700 mm,250 kg,230 V,20 A,50/60 Hz,IP53
+E89031,PCR Thermal Cycler,Active,Genetics,89,Company X,400x350x290 mm,18 kg,100 V,7 A,50/60 Hz,IP30
+E89032,Electrophoresis System,Active,Separation,89,Company X,600x300x120 mm,9 kg,110 V,2 A,60 Hz,IP20
+E89033,Liquid Chromatography System,Active,Chemical Analysis,89,Company X,1100x450x600 mm,60 kg,120 V,10 A,60 Hz,IP20
+E89034,Gas Chromatography System,Active,Chemical Analysis,89,Company X,1200x600x800 mm,70 kg,230 V,18 A,50 Hz,IP20
+E89035,Fluid Handling System,Active,Liquid Management,89,Company X,500x400x300 mm,25 kg,110 V,5 A,50/60 Hz,IP65
+E89036,Ultralow Temperature Freezer,Active,Storage,89,Company X,900x1000x1900 mm,280 kg,220 V,12 A,60 Hz,IP52
+E89037,Water Purification System,Active,Purification,89,Company X,600x500x1000 mm,50 kg,240 V,3 A,60 Hz,IP54
+E89038,DNA Sequencer,Active,Genetic Analysis,89,Company X,850x650x750 mm,95 kg,110 V,8 A,50 Hz,IP50
+E89039,Protein Analyzer,Active,Protein Analysis,89,Company X,500x600x450 mm,45 kg,220 V,4 A,50 Hz,IP40
+E89040,Biochemical Analyzer,Active,Biochemical Testing,89,Company X,700x700x600 mm,50 kg,120 V,10 A,50/60 Hz,IP30
+E89041,Cell Culture Incubator,Active,Cultivation,89,Company X,800x800x900 mm,90 kg,240 V,7 A,50 Hz,IP32
+E89042,Cryostat,Active,Cryogenic,89,Company X,620x570x1060 mm,120 kg,230 V,5 A,60 Hz,IP21
+E89043,Electron Microscope,Active,High-Resolution Imaging,89,Company X,2500x2000x2000 mm,3200 kg,200 V,15 A,50 Hz,IP65
+E89044,Flow Cytometer,Active,Cell Analysis,89,Company X,700x650x480 mm,55 kg,230 V,8 A,50 Hz,IP52
+E89045,High-Content Screening System,Active,Drug Discovery,89,Company X,1200x700x1700 mm,300 kg,220 V,10 A,60 Hz,IP40
+E89046,Lab-On-A-Chip Device,Active,Microfluidics,89,Company X,250x300x100 mm,2 kg,5 V,0.5 A,DC,IP68
+E89047,Spectrophotometer,Active,Spectral Analysis,89,Company X,560x360x270 mm,20 kg,110 V,3 A,60 Hz,IP20
+E89048,X-ray Crystallography Equipment,Active,Structural Biology,89,Company X,1900x1500x1600 mm,1500 kg,230 V,25 A,60 Hz,IP54"

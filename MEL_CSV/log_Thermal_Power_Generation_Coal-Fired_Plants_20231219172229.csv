@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,High Voltage Transformer,Operational,Transformer,80,Company X,4000x8000x6000 mm,35000 kg,230 kV,NA,50 Hz,IP55
+E80003,Generator Circuit Breaker,Under Maintenance,Circuit Breaker,80,Company X,2000x2500x2200 mm,8500 kg,145 kV,4000 A,50 Hz,IP55
+E81001,Medium Voltage Switchgear,Operational,Switchgear,81,Company Y,1500x3200x2500 mm,3000 kg,6 kV,2500 A,50 Hz,IP54
+E81002,Medium Voltage Distribution Transformer,Active,Transformer,81,Company Y,3500x7000x4500 mm,18000 kg,4.16 kV,NA,60 Hz,IP56
+E81003,Medium Voltage Drive,Standby,Variable Speed Drive,81,Company Y,1900x2000x1500 mm,1200 kg,3.3 kV,400 A,50 Hz,IP21
+E82001,Low Voltage Motor Control Center,Active,Motor Control Center,82,Company Z,8000x2400x2500 mm,7000 kg,0.69 kV,3000 A,60 Hz,IP54
+E82002,Low Voltage Distribution Panel,Operational,Distribution Panel,82,Company Z,1200x2000x600 mm,500 kg,0.4 kV,800 A,50 Hz,IP55
+E82003,UPS System,Under Maintenance,Uninterruptible Power Supply,82,Company Z,600x800x1800 mm,150 kg,220 V,200 A,50 Hz,IP20
+E83001,Diesel Generator Set,Standby,Generator,83,Area A,5000x15000x3000 mm,22000 kg,NA,NA,50 Hz,IP23
+E83002,Emergency Distribution Panel,Operational,Distribution Panel,83,Area A,1000x2000x500 mm,300 kg,0.4 kV,250 A,60 Hz,IP55
+E83003,Automatic Transfer Switch,Active,Transfer Switch,83,Area A,800x1600x600 mm,130 kg,0.4 kV,800 A,60 Hz,IP44
+E84001,Emergency Lighting Inverter,Active,Inverter,84,Area B,600x1200x400 mm,700 kg,0.230 kV,1000 A,50/60 Hz,IP31
+E84002,Portable Emergency Generator,Standby,Generator,84,Area B,2000x4500x2000 mm,3000 kg,NA,NA,60 Hz,IP23
+E84003,Emergency Power Control System,Operational,Control System,84,Area B,2000x3000x1500 mm,800 kg,NA,NA,NA,IP55
+E85001,Battery Charger Station,Operational,Battery Charger,85,Area C,500x800x400 mm,50 kg,110 V,100 A,50 Hz,IP21
+E85002,Battery Isolation Switch,Active,Isolation Switch,85,Area C,300x500x300 mm,30 kg,48 V,NA,NA,IP65
+E85003,DC Distribution Board,Operational,Distribution Board,85,Area C,700x900x200 mm,40 kg,110 V,50 A,DC,IP40
+E86001,Fiber Optic Patch Panel,Under Maintenance,Patch Panel,86,Area D,300x700x200 mm,10 kg,NA,NA,NA,IP20
+E86002,Microwave Link System,Active,Telecommunication Equipment,86,Area D,800x1200x500 mm,50 kg,NA,NA,NA,IP55
+E86003,Satellite Communication Dish,Standby,Satellite Dish,86,Area D,3500 mm(Diameter),150 kg,NA,NA,NA,IP66
+E87001,Pressure Transmitter,Operational,Instrumentation,87,Area E,100x150x100 mm,1 kg,24 V,NA,NA,IP67
+E87002,Temperature Transmitter,Under Maintenance,Instrumentation,87,Area E,150x150x100 mm,1.5 kg,24 V,NA,NA,IP68
+E87003,Level Sensor,Active,Sensor,87,Area F,140x140x170 mm,2 kg,24 V,NA,NA,IP65
+E88001,Earth Rod Installation,Operational,Earthing System,88,Area G,4000 mm(Length),10 kg/m,NA,NA,NA,NA
+E88002,Lightning Protection Mast,Active,Lightning Protection,88,Area G,6000x800 mm,120 kg,NA,NA,NA,NA
+E88003,Surge Arrestor Panel,Standby,Surge Protection,88,Area G,800x1200x400 mm,80 kg,0.4 kV,NA,50 Hz,IP55
+E89001,Miscellaneous Tool Set,Operational,Tool Set,89,Area H,NA,20 kg,NA,NA,NA,NA
+E89002,Special Purpose Vehicle,Under Maintenance,Vehicle,89,Area H,NA,2500 kg,NA,NA,NA,NA
+E89003,Temporary Mobile Office,Active,Mobile Office,89,Area H,2400x6000x2800 mm,5000 kg,NA,NA,NA,NA"

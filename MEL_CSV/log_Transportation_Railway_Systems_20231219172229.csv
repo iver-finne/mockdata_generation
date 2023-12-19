@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Power Transformer T1,Active,Transformer,80,Company Z,3500x4500x4100 mm,12500 kg,145 kV,350 A,50 Hz,IP23
+E81001,Medium Voltage Distribution Panel,Active,Panel Board,81,Area A,800x2000x600 mm,350 kg,3.3 kV,800 A,60 Hz,IP42
+E81002,MV Ring Main Unit,Active,Switchgear,81,Company Y,1600x2500x1800 mm,800 kg,6.6 kV,630 A,50 Hz,IP54
+E82001,Low Voltage MCC,Active,Motor Control Center,82,Area B,2000x2200x600 mm,500 kg,400 V,1200 A,50 Hz,IP54
+E82002,AC Distribution Board,Active,Panel Board,82,Area C,1000x2100x300 mm,120 kg,230 V,400 A,60 Hz,IP22
+E83001,Emergency Diesel Generator,Active,Diesel Generator,83,Company M,3500x8500x3000 mm,10000 kg,NA,NA,NA,NA
+E84001,Uninterruptible Power Supply (UPS) System,Active,UPS,84,Area D,600x1200x800 mm,200 kg,220 V,5 kVA,50/60 Hz,IP20
+E85001,Battery Bank for Black Start,Active,Battery Bank,85,Area E,3000x2000x1800 mm,4800 kg,NA,NA,NA,IP30
+E86001,Microwave Communication Link,Active,Communication Equipment,86,Company F,600x400x300 mm,25 kg,NA,NA,NA,IP65
+E87001,Fire and Gas Detection System,Active,Safety System,87,Company G,1200x800x500 mm,40 kg,24 VDC,NA,NA,IP66
+E88001,Copper Earthing Rods,Active,Earthing Equipment,88,Area H,1500 mm length,5 kg,NA,NA,NA,NA
+E88002,Surge Arrestors,Active,Protection Device,88,Company K,300x500x300 mm,15 kg,11 kV,NA,NA,IP68
+E88003,Lightning Protection Mast,Active,Lightning Protection,88,Area I,7000 mm height,65 kg,NA,NA,NA,IP65
+E89001,Miscellaneous MV Cable,Inactive,Cabling,89,Company J,500 m length,120 kg,6.6 kV,200 A,50 Hz,NA
+E89002,Temperature Monitoring Device,Active,Sensing Equipment,89,Area K,150x100x50 mm,0.5 kg,24 VDC,10 mA,NA,IP67
+E89003,Tunnel Ventilation Fan,Active,Ventilation System,89,Area L,1800x2000x1500 mm,800 kg,380 V,1500 A,50 Hz,IP55
+E89004,Weighing System for Cargo,Active,Weighing Equipment,89,Company M,2400x1200x1000 mm,1000 kg,NA,NA,NA,IP66
+E89005,Passenger Information Display,Active,Display System,89,Company N,1200x800x50 mm,35 kg,110 VAC,50 mA,60 Hz,IP54
+E89006,Security Camera System,Active,Camera System,89,Area O,Various sizes,Varies,24 VDC,NA,NA,IP66"

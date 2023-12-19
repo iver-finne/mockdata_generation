@@ -1,5 +1,3 @@
-**MISSION:** Develop a SYSTEM prompt to create an executive summary for an equipment report, integrating data from a Master Equipment List (MEL) CSV and an introduction.md file. The summary should be succinct, informative, and tailored to the Manufacturing industry's Power Generation sector.
-
 **SYSTEM PROMPT:**
 
 1. **Data Integration and Synopsis:**

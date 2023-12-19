@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer Station Main Unit,Active,Transformer,80,Company X,3500x5000x4000 mm,12000 kg,110 kV,2500 A,60 Hz,IP65
+E81001,Medium Voltage Distribution Panel,Active,Switchgear,81,Company X,2200x5000x3000 mm,5000 kg,4 kV,1000 A,60 Hz,IP54
+E82001,Low Voltage Power Distribution Board,Active,Panel Board,82,Company X,2000x5000x2500 mm,4000 kg,400 V,1600 A,50 Hz,IP55
+E83001,Diesel Generator Power System,Active,Generator Set,83,Company X,7000x2500x3000 mm,20000 kg,480 V,3000 A,60 Hz,IP23
+E84001,Emergency Lighting Unit,Active,Lighting Panel,84,Company X,1500x1000x2000 mm,750 kg,220 V,500 A,50 Hz,IP67
+E85001,Uninterruptible Power Supply,Active,UPS,85,Company X,1500x500x1600 mm,300 kg,240 V,100 A,50 Hz,IP20
+E86001,VHF Communication System,Active,Comm System,86,Company X,800x600x300 mm,50 kg,24 V,5 A,DC,N/A
+E87001,Process Automation System,Active,Automation Control,87,Company X,2000x4000x1800 mm,1500 kg,N/A,N/A,N/A,IP66
+E88001,Grounding Rod System,Active,Earthing Rod,88,Company X,1000 mm length,5 kg,N/A,N/A,N/A,IP68
+E89001,Aviation Lighting Indicator,Active,Lighting,89,Company X,500x500x1000 mm,20 kg,120 V,2 A,AC,N/A
+E80003,Step-up Power Transformer,Active,Transformer,80,Company X,4000x6000x3500 mm,30000 kg,132 kV,1750 A,50 Hz,IP65
+E81002,Outdoor Switch Cabinet,Active,Circuit Breaker,81,Company X,1600x1200x600 mm,300 kg,6 kV,800 A,60 Hz,IP54
+E82002,AC/DC Power Supply Panel,Active,Power Supply,82,Company X,300x200x150 mm,10 kg,24 V,15 A,DC,IP30
+E83002,Auxiliary Power Unit,Active,APU,83,Company X,4000x3200x2500 mm,8500 kg,230 V,700 A,400 Hz,IP44
+E84002,Fire Suppression Control System,Active,Fire Control Panel,84,Company X,800x600x200 mm,30 kg,110 V,5 A,50 Hz,IP40
+E85002,Nickel-Cadmium Battery Pack,Active,Battery Module,85,Company X,750x350x400 mm,40 kg,50 V,50 Ah,N/A,IP65
+E86002,Satellite Communication Dish,Active,SatCom Dish,86,Company X,1800 mm diameter,120 kg,N/A,N/A,N/A,IP55
+E87002,Terminal Automation Software,Active,Control Software,87,Company X,N/A,N/A,N/A,N/A,N/A,N/A
+E88002,Lightning Arrestor System,Active,Surge Protection,88,Company X,200x200x400 mm,2 kg,N/A,N/A,N/A,IP66
+E89002,Generic Sensor Component,Active,Sensor Module,89,Company X,100x100x50 mm,0.5 kg,5 V,0.1 A,DC,IP67"

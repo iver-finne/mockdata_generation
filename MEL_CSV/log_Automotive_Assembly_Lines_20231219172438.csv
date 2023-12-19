@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer T1,Active,Power Transformer,80,Company X,2500x5000x3100 mm,10000 kg,145 kV,1500 A,50 Hz,IP23
+E80003,High Voltage Bus Duct,Active,Bus Duct,80,Company X,1000x2000x1000 mm,300 kg,145 kV,2000 A,50 Hz,IP54
+E81001,MV Switchgear Panel,Active,MV Panel,81,Company X,800x2200x2000 mm,1200 kg,6 kV,1200 A,50 Hz,IP52
+E81002,Power Transformer T2,Active,Power Transformer,81,Company X,2300x4800x3000 mm,8500 kg,4.5 kV,1000 A,50 Hz,IP23
+E81003,Medium Voltage Bus Duct,Active,Bus Duct,81,Company X,800x1800x800 mm,280 kg,5 kV,1500 A,50 Hz,IP54
+E82001,Low Voltage Motor Control Center,Active,LV MCC,82,Company X,2000x5000x2200 mm,3200 kg,400 V,3200 A,50 Hz,IP54
+E82002,Distribution Board,Active,Distribution Panel,82,Company X,600x1200x200 mm,100 kg,230 V,100 A,50 Hz,IP44
+E82003,Low Voltage Cable,Active,Cable,82,Company X,NA,NA,400 V,NA,50 Hz,IP00
+E83001,Emergency Generator,Active,Genset,83,Company X,3500x12000x4000 mm,15000 kg,NA,NA,50 Hz,IP23
+E83002,Ups System,Active,Uninterruptible Power Supply,83,Company X,300x500x600 mm,30 kg,230 V,10 A,50 Hz,IP21
+E83003,Auxiliary Transformer,Active,Transformer,83,Company X,1500x2500x2000 mm,3000 kg,400 V,1500 A,50 Hz,IP23
+E84001,Emergency Lighting Panel,Active,Panel,84,Company X,400x800x200 mm,20 kg,230 V,10 A,50 Hz,IP44
+E84002,Backup Power Inverter,Active,Inverter,84,Company X,500x1000x300 mm,50 kg,220 V,5 A,60 Hz,IP21
+E84003,Emergency Power Distribution Board,Active,EPDB,84,Company X,500x1000x400 mm,60 kg,110 V,20 A,60 Hz,IP44
+E85001,Battery Backup for PLC,Active,Battery System,85,Company X,300x300x150 mm,10 kg,24 V,7 A,DC,IP20
+E85002,No-Break Energy Storage,Active,Energy Storage,85,Company X,2500x4000x1900 mm,4400 kg,NA,NA,DC,IP65
+E85003,UPS Battery Bank,Active,Battery Bank,85,Company X,700x2000x1000 mm,1000 kg,480 V,200 A,DC,IP42
+E86001,Telecommunication Rack,Active,Rack,86,Company X,600x2200x600 mm,200 kg,NA,NA,NA,IP20
+E86002,LAN Network Switch,Active,Network Switch,86,Company X,400x600x45 mm,4 kg,5 V,2 A,DC,IP30
+E86003,Wireless Access Point,Active,Wireless AP,86,Company X,160x160x45 mm,0.5 kg,12 V,1 A,DC,IP32
+E87001,Programmable Logic Controller,Active,PLC,87,Company X,400x600x300 mm,15 kg,24 V,10 A,DC,IP55
+E87002,Distributed Control System Unit,Active,DCS,87,Company X,1200x2000x600 mm,90 kg,110 V,8 A,60 Hz,IP20
+E87003,Pressure Transmitter,Active,Transmitter,87,Company X,100x140x100 mm,1.5 kg,24 V,20 mA,DC,IP67
+E88001,Copper Earthing Rod,Active,Earthing Rod,88,Company X,20x2000 mm,5 kg,NA,NA,NA,NA
+E88002,Lightning Protection System,Active,Lightning Protection,88,Company X,NA,NA,NA,NA,NA,NA
+E88003,Surge Arrestor,Active,Surge Protection,88,Company X,100x300x100 mm,5 kg,1000 V,NA,NA,IP66
+E89001,Flexible Manufacturing System,Active,FMS,89,Company X,4000x8000x2500 mm,15000 kg,NA,NA,NA,IP00
+E89002,Automated Guided Vehicle,Active,AGV,89,Company X,1000x2000x1000 mm,600 kg,48 V,200 A,DC,IP65
+E89003,Industrial Robot Arm,Active,Robot Arm,89,Company X,800x1500x1300 mm,500 kg,400 V,10 A,50 Hz,IP54"

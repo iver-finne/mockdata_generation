@@ -1,8 +1,4 @@
-#
-
-
 ## Study summary / overview
-listen to teh user response for description, if incomplete select from industries: {}
 {study}
 
 # Purpose: Generate a mock Master Equipment List in CSV format using "{industry} - {application}" specifications for simulation and testing purposes. The generated data must be brand-agnostic and should not contain any extraneous explanatory text.
@@ -30,4 +26,4 @@ The model should utilize its full context window of 128k characters to generate 
 
 ## Example Entry
 Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
-E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54xq
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54

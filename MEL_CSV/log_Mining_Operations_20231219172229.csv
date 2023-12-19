@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+G81001,Medium Voltage Circuit Breaker,Active,Breaker,81,Company X,800x2000x1600mm,1000 kg,3.3 kV,2500 A,60 Hz,IP42
+L82001,Low Voltage Distribution Panel,Active,Panelboard,82,Company X,600x1200x400mm,150kg,400 V,800 A,50 Hz,IP55
+G83001,Diesel Generator for Essential Load,Maintenance,Generator,83,Area Y,3500x1500x2000 mm,4500 kg,480 V,Variable,60 Hz,IP23
+E84001,Emergency Power Supply Unit,Active,UPS,84,Company X,1600x800x600mm,200kg,220 V,Variable,50 Hz,IP20
+B85001,Lead Acid Battery Bank,Active,Battery,85,Area Y,2000x500x1500mm,1200 kg,48 V,Variable,N/A,IP22
+T86001,Fiber Optic Communication Panel,Active,Comm Panel,86,Company X,600x800x220mm,30 kg,N/A,N/A,N/A,IP65
+I87001,Programmable Logic Controller,Active,PLC,87,Area Y,400x600x200mm,12 kg,24 VDC,4 A,N/A,IP20
+Z88001,Earthing and Bonding System,Active,Earthing,88,Company X,N/A,N/A,N/A,N/A,N/A,N/A
+X89001,Unspecified Custom Equipment,Planning,Custom,89,Area Y,To be determined,To be determined,To be determined,To be determined,To be determined,To be determined
+E80002,Gas Insulated Switchboard,Active,GIS,80,Area Y,2500x3500x3000mm,10000kg,132 kV,2500A,50 Hz,IP67
+G81002,Transformer Station,Active,Transformer,81,Company X,5000x4000x4500mm,12000kg,6.6 kV,Variable,50 Hz,IP55
+L82002,Industrial Power Inverter,Active,Inverter,82,Area Y,800x600x500mm,50kg,230V,10A,60 Hz,IP21
+G83002,Essential Services UPS,Active,UPS,83,Company X,1500x800x700mm,300kg,120 V,Variable,60 Hz,IP30
+E84002,Standby Diesel Generator,Active,Generator,84,Area Y,6000x2450x2600mm,8500kg,11 kV,Variable,50 Hz,IP23
+B85002,Solar Power Storage System,Active,Battery System,85,Company X,5000x2000x2100mm,5500kg,380V,Variable,DC,IP65
+T86002,VSAT Communication System,Active,VSAT,86,Area Y,1200x1200x1200mm,120kg,N/A,N/A,N/A,IP56
+I87002,SCADA System Hardware,Active,SCADA,87,Company X,2000x800x600mm,250kg,48VDC,15A,N/A,IP40
+Z88002,Surge Protection Device,Active,SPD,88,Area Y,200x150x100mm,1.5kg,240V,20kA,N/A,IP66
+X89002,Mobile Lighting Unit,Active,Lighting,89,Company X,1000x1000x3000mm,150kg,N/A,N/A,N/A,IP44
+E80003,Outdoor Substation,Active,Substation,80,Area Y,10000x8000x5000mm,30000kg,145kV,Variable,50Hz,IP65
+G81003,Switchboard Section,Active,Section,81,Company X,1200x2400x600mm,500kg,6.6kV,1600A,60Hz,IP54
+L82003,Modular Synthesizer Panel,Active,Synthesizer,82,Area Y,1000x500x200mm,30kg,110V,20A,60Hz,IP40
+G83003,Alternative Power Inverter,Active,Inverter,83,Company X,800x400x200mm,20kg,220V,5A,50Hz,IP52
+E84003,Floodlight Battery Backup,Active,Lighting Backup,84,Area Y,200x200x300mm,5kg,24V,2.5A,N/A,IP65
+B85003,Industrial Battery Charger,Active,Charger,85,Company X,400x300x150mm,10kg,110V,50A,N/A,IP50
+T86003,Wireless Access Point,Active,WAP,86,Area Y,200x200x50mm,0.5kg,N/A,N/A,N/A,IP30
+I87003,Distributed Control System Console,Active,DCS Console,87,Company X,1800x800x1200mm,300kg,24VDC,10A,N/A,IP41
+Z88003,Grounding Rod Cluster,Active,Ground Rod,88,Area Y,N/A,N/A,N/A,N/A,N/A,N/A
+X89003,Prototype Ventilation Unit,Design,Ventilation,89,Company X,To be determined,To be determined,To be determined,To be determined,To be determined,To be determined"

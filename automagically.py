@@ -5,7 +5,7 @@ from openai import OpenAI
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
-api_key = "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"
+api_key = "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"
 model = "gpt-4-1106-preview"
 prompt_file = 'prompt.txt'
 csv_dir = "./MEL_CSV"

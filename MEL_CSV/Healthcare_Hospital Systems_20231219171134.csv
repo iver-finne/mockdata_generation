@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer Station,Active,Transformer,80,Company X,2500x4500x3500 mm,12000 kg,33 kV,500 A,50 Hz,IP43
+E80003,Diesel Generator Set,Active,Generation,80,Company X,3500x8000x4000 mm,7500 kg,11 kV,1500 A,50 Hz,IP23
+E80101,Main Distribution Board,Active,Distribution,81,Electric Dept Area A,2000x5000x2200 mm,3000 kg,415 V,4000 A,50 Hz,IP44
+E80102,Automatic Transfer Switch,Active,Switchgear,81,Electric Dept Area C,1000x1600x800 mm,350 kg,415 V,1000 A,50 Hz,IP21
+E80201,Uninterruptible Power Supply,Active,UPS,82,Electric Dept Area B,800x2000x1500 mm,800 kg,240 V,500 A,50 Hz,IP22
+E80202,Battery Rack,System Standby,Battery,82,Electric Dept Area A,2000x4000x1500 mm,1200 kg,48 V,800 A,DC,IP20
+E80301,Isolation Transformer,Active,Transformer,83,Electric Dept Area B,800x800x1200 mm,200 kg,230 V,100 A,50 Hz,IP22
+E80302,Medical Grade Outlet,Active,Electrical Outlet,83,Electric Dept Area C,75x75x100 mm,0.5 kg,230 V,16 A,50 Hz,IP20
+E80401,Lighting Inverter,Active,Inverter,84,Electric Dept Area D,400x800x600 mm,150 kg,240 V,40 A,50 Hz,IP20
+E80402,Emergency Light Fixture,Active,Lighting,84,Electric Dept Area E,300x300x100 mm,2 kg,240 V,0.5 A,50 Hz,IP65
+E80501,Surge Protection Device,Active,Protection,85,Electric Dept Area A,150x250x130 mm,1.5 kg,415 V,20 kA,50 Hz,IP20
+E80502,Voltage Stabilizer,Active,Stabilizer,85,Electric Dept Area C,800x1600x600 mm,100 kg,230 V,50 A,50 Hz,IP20
+E80601,Power Factor Correction Unit,Active,Correction,86,Electric Dept Area B,1000x2000x1500 mm,700 kg,415 V,300 A,50 Hz,IP40
+E80602,Harmonic Filter Panel,Active,Filter,86,Electric Dept Area D,800x1200x600 mm,200 kg,415 V,150 A,50 Hz,IP20
+E80701,Electrical Heating System,Active,Heating,87,Electric Dept Area E,1500x2500x1200 mm,500 kg,415 V,300 A,50 Hz,IP54
+E80702,Heat Recovery Steam Generator,Active,Generation,87,Company X,10000x20000x8000 mm,8000 kg,33 kV,100 A,50 Hz,IP23
+E80801,Fire Alarm Control Panel,Active,Control,88,Security Dept Area A,600x600x210 mm,25 kg,24 V,5 A,DC,IP30
+E80802,Security Access Control System,Active,Security,88,Security Dept Area B,400x600x190 mm,20 kg,12 V,10 A,DC,IP55
+E80901,Infrastructure Monitoring System,Active,Monitoring,89,IT Dept Area C,1200x800x600 mm,30 kg,240 V,1 A,50 Hz,IP50
+E80902,Environmental Control System,Active,Control,89,IT Dept Area D,1500x1000x400 mm,100 kg,240 V,5 A,50 Hz,IP20"

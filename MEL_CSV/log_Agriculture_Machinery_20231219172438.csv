@@ -1,0 +1,32 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer Step-up,Active,Transformer,80,Company X,3500x2500x3000 mm,8000 kg,145 kV,800 A,50 Hz,IP44
+E80003,Distribution Panel HV,Active,Panel,80,Company X,2500x1500x2000 mm,1000 kg,132 kV,1000 A,60 Hz,IP54
+E80004,High Voltage Cable,Active,Cable,80,Company X,N/A,10 kg/m,110 kV,500 A,50 Hz,IP68
+E81001,Medium Voltage Switchgear,Active,Switchgear,81,Company X,1500x3000x1600 mm,1500 kg,6.6 kV,1250 A,60 Hz,IP54
+E81002,Medium Voltage Transformer,Active,Transformer,81,Company X,2000x2000x2500 mm,5000 kg,6.6 kV,600 A,50 Hz,IP23
+E81003,Medium Voltage Power Line,Active,Power Line,81,Company X,N/A,5 kg/m,3.3 kV,1200 A,60 Hz,IP00
+E81004,Medium Voltage Distribution Board,Active,Board,81,Company X,1200x2000x600 mm,800 kg,4.16 kV,800 A,50 Hz,IP66
+E82001,Low Voltage Switchboard,Active,Switchboard,82,Company X,2000x1000x2000 mm,500 kg,380 V,2500 A,60 Hz,IP54
+E82002,Backup Generator,Active,Generator,82,Company X,3000x1000x1500 mm,2000 kg,220 V,100 A,50 Hz,IP23
+E82003,Low Voltage Cable,Active,Cable,82,Company X,N/A,1.5 kg/m,480 V,200 A,60 Hz,IP68
+E82004,UPS System,Active,UPS,82,Company X,600x800x1000 mm,150 kg,230 V,500 A,50 Hz,IP21
+E83001,Emergency Power Generator,Active,Generator,83,Company X,4000x1500x2000 mm,3000 kg,440 V,300 A,60 Hz,IP23
+E83002,Essential Power Distribution Unit,Active,Power Distribution Unit,83,Company X,1000x500x500 mm,100 kg,110 V,100 A,50 Hz,IP55
+E83003,Emergency Lighting Panel,Active,Lighting Panel,83,Company X,800x600x200 mm,15 kg,220 V,10 A,50 Hz,IP65
+E84001,Emergency Battery Pack,Active,Battery Pack,84,Company X,500x400x300 mm,25 kg,12 V,20 Ah,N/A,IP67
+E84002,Automatic Transfer Switch,Active,Transfer Switch,84,Company X,800x500x300 mm,50 kg,440 V,100 A,60 Hz,IP55
+E84003,Emergency Backup Power Cable,Active,Cable,84,Company X,N/A,0.5 kg/m,400 V,200 A,50 Hz,IP68
+E85001,Diesel Rotary UPS,Active,UPS,85,Company X,4000x2000x1800 mm,4500 kg,380 V,1500 A,60 Hz,IP42
+E85002,Battery Cabinet,Active,Cabinet,85,Company X,2000x600x1800 mm,750 kg,48 V,800 Ah,N/A,IP20
+E85003,Power Conditioning System,Active,Power Conditioner,85,Company X,1000x500x500 mm,100 kg,380 V,50 A,50 Hz,IP41
+E86001,Fiber Optic Patch Panel,Active,Panel,86,Company X,480x200x45 mm,4 kg,N/A,N/A,N/A,IP20
+E86002,Microwave Transmission System,Active,Transmission System,86,Company X,800x600x400 mm,40 kg,N/A,N/A,N/A,IP65
+E86003,Wired Telecommunication Cable,Active,Cable,86,Company X,N/A,50 g/m,N/A,N/A,N/A,IP00
+E87001,Process Automation System,Active,Automation System,87,Company X,2000x1500x600 mm,150 kg,N/A,N/A,N/A,IP54
+E87002,Field Instrument,Active,Instrument,87,Company X,100x100x150 mm,1 kg,N/A,N/A,N/A,IP67
+E87003,Control Room Equipment,Active,Control Equipment,87,Company X,3000x2000x1800 mm,300 kg,N/A,N/A,N/A,IP55
+E88001,Grounding Rod,Active,Rod,88,Company X,N/A,5 kg,N/A,N/A,N/A,IP00
+E88002,Surge Protection Device,Active,Protection Device,88,Company X,100x50x50 mm,0.5 kg,N/A,N/A,N/A,IP66
+E88003,Conductive Cabling System,Active,Cabling System,88,Company X,N/A,100 g/m,N/A,N/A,N/A,IP00
+E89001,Specific Purpose Device,Active,Device,89,Area Y,Custom Size,Custom Weight,Custom Voltage,Custom Current,Custom Frequency,Custom IP Rating"

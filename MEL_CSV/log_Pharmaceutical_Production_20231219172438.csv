@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,High Voltage Transformer,Active,Transformer,80,Company X,2500x4000x3200 mm,12000 kg,145 kV,1500 A,50 Hz,IP23
+E81001,Main Power Transformer,Active,Transformer,81,Company X,2000x3500x3000 mm,10000 kg,5 kV,1250 A,60 Hz,IP23
+E81002,MV Switchboard Panel,Active,Switchboard,81,Company X,800x2200x1800 mm,800 kg,3 kV,800 A,60 Hz,IP42
+E82001,Low Voltage Distribution Board,Active,Distribution Board,82,Company X,600x2100x1600 mm,500 kg,400 V,1600 A,50 Hz,IP54
+E82002,Low Voltage Transformer,Active,Transformer,82,Company X,1500x2500x2000 mm,3000 kg,230 V,1200 A,50 Hz,IP23
+E83001,Emergency Diesel Generator,Active,Generator,83,Company X,3500x4500x3500 mm,16000 kg,400 V,1800 A,50 Hz,IP44
+E83002,Essential UPS System,Active,UPS,83,Company X,800x1200x600 mm,180 kg,230 V,20 A,50 Hz,IP20
+E84001,Emergency Power Generator Set,Active,Generator Set,84,Company X,5000x20000x5000 mm,30000 kg,6.6 kV,2200 A,60 Hz,IP23
+E84002,Emergency Power ATS Panel,Active,ATS Panel,84,Company X,800x1600x800 mm,150 kg,400 V,1600 A,60 Hz,IP54
+E85001,Station Battery Charger,Active,Battery Charger,85,Company X,500x800x400 mm,40 kg,110 V,10 A,50 Hz,IP21
+E85002,Uninterruptible Power Supply Cabinet,Active,UPS,85,Company X,600x2000x600 mm,200 kg,220 V,50 A,60 Hz,IP22
+E86001,Fiber Optic Telecommunications Panel,Active,Telecom Panel,86,Company X,600x1400x500 mm,150 kg,-,-,-,IP54
+E86002,Telecommunications Rack,Active,Telecom Rack,86,Company X,750x2000x500 mm,100 kg,-,-,-,IP20
+E87001,Safety Instrumented System,Active,SIS,87,Company X,1000x2000x1000 mm,600 kg,-,-,-,IP55
+E87002,Process Control System,Active,PCS,87,Company X,1200x2200x1000 mm,800 kg,-,-,-,IP51
+E88001,Plant Earthing System,Active,Earthing,88,Company X,-,-,-,-,-,-
+E88002,Lightning Protection System,Active,Lightning Protection,88,Company X,-,-,-,-,-,-
+E89001,Non-Defined Equipment 1,Active,Not Defined,89,Company X,-,-,-,-,-,-
+E89002,Non-Defined Equipment 2,Active,Not Defined,89,Company X,-,-,-,-,-,-"

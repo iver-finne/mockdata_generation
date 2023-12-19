@@ -1,0 +1,56 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+P80101,Centrifugal Pump,Active,PMP,81,Company X,800x600x400 mm,320 kg,415 V,25 A,50 Hz,IP55
+T80201,Turbidity Sensor,Active,SEN,82,Company X,100x150x90 mm,1.5 kg,24 VDC,100 mA, n/a,IP68
+E80301,Electric Actuator,Active,ACT,83,Company X,250x150x100 mm,10 kg,120 VAC,1 A,60 Hz,IP66
+C80401,Chlorine Analyzer,Active,ANA,84,Company X,350x300x150 mm,5.2 kg,110 VAC,500 mA,60 Hz,IP65
+V80501,Butterfly Valve,Active,VLV,85,Company X,400x200x150 mm,22 kg,n/a,n/a,n/a,IP67
+F80601,UV Disinfection System,Active,DSF,86,Company X,1200x800x600 mm,450 kg,240 VAC,10 A,50 Hz,IP65
+S80701,Sludge Dewatering Press,Active,DWR,87,Company X,2500x1500x1400 mm,2700 kg,380 V,30 A,50 Hz,IP54
+A80801,Automation Control Panel,Active,PLC,88,Company X,600x2000x600 mm,350 kg,230 VAC,8 A,50 Hz,IP55
+G80901,Gas Detector,Active,DET,89,Company X,120x120x90 mm,0.8 kg,24 VDC,150 mA,n/a,IP67
+R81001,RO Membrane Housing,Active,HOU,81,Company X,350x1500x350 mm,40 kg, n/a, n/a, n/a, IP65
+M81101,Medium Voltage Motor,Active,MTR,81,Company X,3100x1600x1800 mm,5000 kg,690 V,30 A,50 Hz,IP55
+H81201,Handheld pH Meter,Active,HND,82,Company X,75x30x20 mm,0.4 kg,3 VDC (battery),n/a,n/a,IP54
+D81301,Dissolved Oxygen Probe,Active,PRB,82,Company X,28x175 mm,0.2 kg,12 VDC,10 mA,n/a,IP68
+S81401,Submersible Mixer,Active,MXR,83,Company X,400x500x600 mm,75 kg,400 V,15 A,50 Hz,IP68
+P81501,Pressure Transmitter,Active,TRN,83,Company X,120x120x100 mm,0.9 kg,24 VDC,4-20 mA,n/a,IP66
+B81601,Belt Filter Press,Active,FLP,87,Company X,7000x2500x2400 mm,7500 kg,480 V,50 A,60 Hz,IP54
+O81701,Ozone Generator,Active,OZN,86,Company X,900x900x1200 mm,300 kg,380 V,8 A,50 Hz,IP55
+U81801,Ultrafiltration Module,Active,ULT,84,Company X,1500x500x500 mm,60 kg,n/a,n/a,n/a,IP65
+D81901,Dosing Pump,Active,DOS,85,Company X,280x350x400 mm,15 kg,220 VAC,2 A,50 Hz,IP65
+L82001,Level Sensor,Active,LSN,82,Company X,200x200x150 mm,2.3 kg,24 VDC,100 mA,n/a,IP68
+W82101,Waste Gas Burner,Active,BNR,89,Company X,1800x800x1200 mm,500 kg,n/a,n/a,n/a,IP54
+C82201,Circuit Breaker Panel,Active,CBP,80,Company X,600x2000x400 mm,150 kg,400 VAC,n/a,50 Hz,IP54
+K82301,Kilowatt-Hour Meter,Active,MTR,80,Company X,70x100x60 mm,0.5 kg,240 VAC,10 A,50 Hz,IP52
+Z82401,Zone Control Valve,Active,ZCV,85,Company X,300x400x250 mm,18 kg,n/a,n/a,n/a,IP67
+E82501,Electronic Flow Meter,Active,FLM,82,Company X,150x250x130 mm,3.4 kg,24 VDC,500 mA,n/a,IP68
+G82601,Grounding Transformer,Active,TRF,80,Company X,900x600x400 mm,200 kg,11 kV,20 A,50 Hz,IP54
+V82701,Variable Frequency Drive,Active,VFD,83,Company X,500x400x200 mm,25 kg,480 VAC,15 A,60 Hz,IP21
+F82801,Flotation Thickener,Active,THK,87,Company X,8000x8000x9000 mm,12000 kg,415 V,60 A,50 Hz,IP55
+I82901,Ion Exchange Unit,Active,ION,84,Company X,2800x1400x1500 mm,1500 kg,n/a,n/a,n/a,IP55
+X83001,Cross Flow Separator,Active,XFS,87,Company X,2200x2200x2200 mm,1800 kg,380 V,25 A,50 Hz,IP54
+Y83101,Y-strainer,Active,STR,85,Company X,200x300x200 mm,8 kg, n/a, n/a, n/a,IP67
+R83201,Rack Mounted PLC,Active,RPL,88,Company X,482.6x177.8x450 mm,10 kg,230 VAC,2 A,60 Hz,IP20
+L83301,Lighting Panelboard,Active,LPN,80,Company X,400x1200x300 mm,60 kg,230 VAC,10 A,50 Hz,IP30
+S83401,Sand Filter,Active,SFT,81,Company X,2000x1500x2200 mm,1800 kg,n/a,n/a,n/a,IP55
+Q83501,Quick Closing Valve,Active,QCV,85,Company X,450x600x450 mm,35 kg,n/a,n/a,n/a,IP67
+N83601,Nutrient Analyzer,Active,NUT,82,Company X,200x300x150 mm,2 kg,220 VAC,500 mA,50 Hz,IP54
+E83701,Emergency Stop Button,Active,ESB,88,Company X,100x100x50 mm,0.5 kg,24 VDC,n/a,n/a,IP66
+P83801,Power Factor Correction Unit,Active,PFC,80,Company X,600x800x400 mm,75 kg,400 VAC,n/a,50 Hz,IP20
+M83901,Membrane Bioreactor,Active,MBR,81,Company X,3200x1400x1800 mm,2500 kg,n/a,n/a,n/a,IP55
+S84001,Sluice Gate,Active,GTE,85,Company X,1500x1200x1000 mm,500 kg,n/a,n/a,n/a,IP67
+H84101,Heat Exchanger,Active,HEX,83,Company X,1000x800x1200 mm,680 kg,n/a,n/a,n/a,IP54
+B84201,Backflow Preventer,Active,BFP,85,Company X,300x400x300 mm,22 kg,n/a,n/a,n/a,IP68
+A84301,Air Compressor,Active,COM,83,Company X,1200x800x600 mm,240 kg,240 VAC,10 A,60 Hz,IP55
+M84401,MCC Panel,Active,MCP,88,Company X,2000x600x2000 mm,800 kg,415 VAC,50 A,50 Hz,IP54
+D84501,Data Logger,Active,DAT,82,Company X,230x90x40 mm,0.6 kg,5 VDC (USB),n/a,n/a,IP50
+G84601,Grit Removal System,Active,GRS,87,Company X,3000x3000x2500 mm,4500 kg,380 V,35 A,50 Hz,IP65
+T84701,Transfer Pump,Active,TMP,81,Company X,950x750x650 mm,350 kg,415 V,20 A,50 Hz,IP55
+I84801,Influent Flow Meter,Active,IFM,82,Company X,200x500x300 mm,6.5 kg,24 VDC,4-20 mA,n/a,IP68
+H84901,Hydraulic Power Unit,Active,HPU,85,Company X,1800x1200x800 mm,1200 kg,480 VAC,25 A,60 Hz,IP65
+E85001,Electrodeionization Unit,Active,EDI,84,Company X,2500x1000x1200 mm,900 kg,220 VAC,6 A,50 Hz,IP54
+P85101,Pressure Relief Valve,Active,PRV,85,Company X,250x200x150 mm,5 kg,n/a,n/a,n/a,IP66
+C85201,Conductivity Meter,Active,CDM,82,Company X,160x80x60 mm,0.5 kg,12 VDC,100 mA,n/a,IP67
+F85301,Filtration Skid,Active,FSK,81,Company X,3000x2000x1500 mm,3500 kg,240 VAC,15 A,50 Hz,IP55
+L85401,Liquid Analyzer,Active,LQA,82,Company X,410x310x160 mm,4.2 kg,110 VAC,500 mA,60 Hz,IP54
+P85501,Pipeline Pigging System,Active,PPS,89,Company X,2000x2500x1000 mm,1500 kg,n/a,n/a,n/a,IP65"

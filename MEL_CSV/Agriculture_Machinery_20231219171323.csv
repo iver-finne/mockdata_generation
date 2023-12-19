@@ -1,0 +1,33 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Battery Energy Storage System,Active,BESS,80,Company A,2500x1800x2200 mm,5000 kg,1000 V,500 A,DC,IP65
+E80003,Transformer Step-Up,Active,TSU,80,Company B,3000x2000x2500 mm,10000 kg,33 kV,500 A,50 Hz,IP55
+E80004,Solar Inverter,Active,PVI,80,Area Y,1000x1500x500 mm,150 kg,800 V,120 A,DC to 50 Hz,IP66
+E80005,Wind Turbine Controller,Active,WTG,80,Company C,800x600x300 mm,80 kg,690 V,400 A,50 Hz,IP67
+E80006,Switchgear Breaker,Active,SWB,80,Company D,900x2200x1900 mm,3200 kg,36 kV,2500 A,50 Hz,IP54
+E81001,Diesel Generator Set,Active,DG,81,Area Z,6000x2500x3000 mm,12000 kg,415 V,2000 A,50 Hz,IP23
+E81002,Battery Charger Station,Active,BCS,81,Company E,1200x800x600 mm,200 kg,48 V,100 A,DC,IP55
+E81003,Capacitor Bank,Active,CAP,81,Company F,2000x1000x2000 mm,1500 kg,400 V,300 A,50 Hz,IP54
+E82001,Electrical Motor Driven Pump,Active,EMDP,82,Company G,1500x1000x1200 mm,500 kg,400 V,150 A,50 Hz,IP55
+E82002,Variable Frequency Drive,Active,VFD,82,Area H,600x800x400 mm,120 kg,400 V,60 A,0-50 Hz,IP66
+E82003,Power Supply Unit,Active,PSU,82,Company J,300x500x200 mm,20 kg,24 V,10 A,DC,IP54
+E83001,Automated Weather Station,Active,AWS,83,Company K,500x500x2000 mm,50 kg,12 V,5 A,DC,IP65
+E83002,Sensor Network Hub,Active,SNH,83,Area L,400x300x100 mm,5 kg,5 V,2 A,DC,IP67
+E83003,Field Monitoring Camera,Active,FMC,83,Company M,250x150x120 mm,1.5 kg,24 V,0.5 A,DC,IP66
+E84001,Center Pivot Irrigation System,Active,CPI,84,Company N,12,000x5,000 mm dia,3000 kg,400 V,30 A,50 Hz,IP65
+E84002,Drip Irrigation Control Unit,Active,DICU,84,Area O,600x400x200 mm,15 kg,24 V,2 A,DC,IP68
+E84003,Submersible Water Pump,Active,SWP,84,Company P,500x250x150 mm,40 kg,230 V,10 A,50 Hz,IP68
+E85001,Programmable Logic Controller,Active,PLC,85,Company Q,300x250x150 mm,4.5 kg,24 V,5 A,DC,IP65
+E85002,Actuator Control Panel,Active,ACP,85,Area R,400x600x200 mm,20 kg,240 V,4 A,50 Hz,IP54
+E85003,Signal Converter,Active,SCV,85,Company S,200x100x150 mm,2 kg,5 V,1 A,DC,IP67
+E86001,Electric Vehicle Charging Station,Active,EVCS,86,Company T,1000x1500x330 mm,200 kg,400 V,100 A,DC,IP55
+E86002,Wireless Sensor Node,Active,WSN,86,Area U,100x100x45 mm,0.3 kg,3.3 V,200 mA,DC,IP68
+E86003,Telemetry RTC Module,Active,TRTCM,86,Company V,80x50x20 mm,0.05 kg,12 V,20 mA,DC,IP64
+E87001,Mobile Weather Radar,Active,MWR,87,Company W,3000x3000x4000 mm,800 kg,240 V,15 A,60 Hz,IP66
+E87002,Unmanned Aerial Vehicle,Active,UAV,87,Area X,1000x1000x200 mm,5 kg,14.8 V,60 A,DC,IP63
+E87003,RFID Asset Tracking System,Active,RFATS,87,Company Y,300x200x50 mm,1.5 kg,5 V,0.5 A,DC,IP68
+E88001,Autonomous Tractor,Active,AT,88,Company Z,7000x2500x2800 mm,8500 kg,48 V,600 A,DC,IP67
+E88002,Harvesting Robot,Active,HR,88,Area A1,1200x800x1500 mm,100 kg,24 V,10 A,DC,IP66
+E88003,Smart Field Sprayer,Active,SFS,88,Company B1,4000x2000x1500 mm,1000 kg,240 V,20 A,50 Hz,IP65
+E89001,Soil Sampling Drone,Active,SSD,89,Company C1,800x800x300 mm,3 kg,7.4 V,5 A,DC,IP64
+E89002,AI Image Analysis Server,Active,AIAS,89,Area D1,600x800x400 mm,20 kg,240 V,5 A,50 Hz,IP55
+E89003,Greenhouse Climate Controller,Active,GCC,89,Company E1,1000x1000x500 mm,150 kg,220 V,7 A,50 Hz,IP54"

@@ -1,0 +1,25 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Main Transformer Unit,Operational,Transformer,80,Company Y,4000x8000x5000 mm,12000 kg,132 kV,1000 A,60 Hz,IP23
+E80003,High Voltage Circuit Breaker,Maintenance,Breaker,80,Company Z,1000x2500x2200 mm,3000 kg,110 kV,2500 A,50 Hz,IP42
+E81001,Medium Voltage Substation Panel,Active,Panel,81,Company X,1800x5000x2000 mm,4000 kg,6.6 kV,1250 A,60 Hz,IP22
+E81002,Distribution Transformer,Active,Transformer,81,Company Y,3000x7000x4000 mm,8500 kg,3 kV,1500 A,60 Hz,IP23
+E81003,Medium Voltage Breaker,Operational,Breaker,81,Company Z,900x2400x2000 mm,2700 kg,4.16 kV,1200 A,50 Hz,IP52
+E82001,Low Voltage Distribution Board,Operational,Board,82,Company X,2000x6000x1500 mm,3200 kg,400 V,800 A,50 Hz,IP54
+E82002,ATS Switch,Active,Switch,82,Company Y,1500x4000x1000 mm,1600 kg,240 V,1000 A,60 Hz,IP21
+E82003,Power Control Center,Active,Control Center,82,Company Z,2500x6500x1800 mm,4500 kg,690 V,1600 A,50 Hz,IP42
+E83001,Essential Diesel Generator Set,Operational,Genset,83,Company X,3500x11000x4500 mm,10500 kg,690 V,1250 A,60 Hz,IP23
+E83002,Uninterruptible Power Supply,Operational,UPS,83,Company Y,800x2000x1500 mm,500 kg,220 V,500 A,50 Hz,IP20
+E83003,Emergency Junction Box,Maintenance,Junction Box,83,Company Z,300x700x300 mm,25 kg,110 V,30 A,60 Hz,IP55
+E84001,Fire Pump Controller,Active,Controller,84,Company X,1000x2000x1500 mm,800 kg,450 V,250 A,60 Hz,IP65
+E84002,Essential Power Transfer Switch,Active,Transfer Switch,84,Company Y,1600x4500x2000 mm,3000 kg,480 V,600 A,50 Hz,IP54
+E85001,Lead-acid Battery Bank,Operational,Battery,85,Company X,2000x5000x2000 mm,9000 kg,DC 480 V,1000 Ah,N/A,IP44
+E85002,Lithium-ion Battery Storage,Active,Battery Storage,85,Company Y,2500x5500x2500 mm,7500 kg,DC 520 V,1200 Ah,N/A,IP65
+E86001,Microwave Link Equipment,Operational,Microwave Link,86,Company Z,600x800x400 mm,30 kg,DC 48 V,0.5 A,N/A,IP65
+E86002,Fiber Optic Patch Panel,Active,Patch Panel,86,Company X,480x220x200 mm,4 kg,N/A,N/A,N/A,IP20
+E87001,Process Control Console,Operational,Console,87,Company Y,2000x5000x1600 mm,1200 kg,N/A,N/A,N/A,IP50
+E87002,Safety Shutdown System,Operational,Safety System,87,Company Z,1500x4000x1200 mm,800 kg,N/A,N/A,N/A,IP65
+E88001,Copper Earthing Rod,Active,Earthing,88,Company X,20x4000 mm,15 kg,N/A,N/A,N/A,IP68
+E88002,Lightning Arrester,Active,Arrester,88,Company Y,100x2000 mm,25 kg,High Voltage,N/A,N/A,IP67
+E89001,Prototype PCB Assembly Station,Concept,Assembly Station,89,Company Z,1000x3000x1200 mm,500 kg,N/A,N/A,N/A,IP20
+E89002,Experiment Control Unit,Design,Control Unit,89,Company X,600x1000x400 mm,50 kg,N/A,N/A,N/A,IP40"

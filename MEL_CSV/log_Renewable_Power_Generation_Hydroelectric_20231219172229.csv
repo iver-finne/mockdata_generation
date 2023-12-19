@@ -1,0 +1,29 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Power Transformer Unit,Active,Transformer,80,Company X,2500x5000x3000 mm,12000 kg,230 kV,1000 A,60 Hz,IP55
+E80003,Overhead Transmission Lines,Active,Conductor,80,Company X,N/A,N/A,220 kV,N/A,50 Hz,N/A
+E80004,Hydroelectric Generator,Active,Synchronous Machine,80,Company Y,3500x6000x4500 mm,30000 kg,13.8 kV,2800 A,60 Hz,IP44
+E80005,Power Distribution Unit,Active,Switchboard,80,Company X,1600x2200x800 mm,1500 kg,145 kV,1200 A,50 Hz,IP54
+E81001,Medium Voltage Switchgear,Active,MV Switchgear,81,Company Y,2000x4000x2600 mm,5000 kg,6.6 kV,2500 A,60 Hz,IP54
+E81002,Earth Leakage Relay,Active,Protection Relay,81,Company Z,100x300x150 mm,2 kg,5 kV,10 A,60 Hz,IP20
+E81003,Step-down Transformer,Active,Transformer,81,Company X,2000x3000x2500 mm,10000 kg,6.6 kV,500 A,50 Hz,IP23
+E81004,Motor Control Center,Active,MCC,81,Company Y,2400x6000x2600 mm,8000 kg,3.3 kV,400 A,60 Hz,IP54
+E81005,Soft Starter Panel,Active,Soft Starter,81,Company Z,400x800x600 mm,30 kg,1 kV,120 A,50/60 Hz,IP42
+E82001,Low Voltage Control Panel,Active,Control Panel,82,Company X,600x1200x200 mm,70 kg,400 V,250 A,50 Hz,IP55
+E82002,Distribution Board,Active,Distribution Board,82,Company Y,800x2000x500 mm,100 kg,230 V,400 A,50/60 Hz,IP65
+E82003,Battery Charger,Active,Charger,82,Company Z,500x700x350 mm,​45 kg,​24 VDC,​20 A,N/A,IP20
+E82004,AC to DC Convertor,Active,Convertor,82,Company X,300x500x300 mm,15 kg,220 V,10 A,50 Hz,IP30
+E82005,Uninterruptible Power Supply,Active,UPS,82,Company Y,800x1200x600 mm,80 kg,220 V,50 A,50/60 Hz,IP21
+E83001,Emergency Diesel Generator,Active,Diesel Gen.,83,Company Z,4000x12000x3500 mm,20000 kg,415 V,2000 A,50 Hz,IP23
+E83002,Essential Distribution Panel,Active,Distribution Panel,83,Company X,800x1600x600 mm,120 kg,400 V,800 A,50 Hz,IP54
+E84001,Fire Pump Electric Motor,Active,Induction Motor,84,Company Y,1500x1500x1000 mm,850 kg,400 V,300 A,50 Hz,IP55
+E84002,Emergency Lighting System,Active,Lighting System,84,Company Z,N/A,N/A,N/A,N/A,N/A,IP65
+E85001,Battery Energy Storage System,Active,Battery Storage,85,Company X,4000x8000x3000 mm,15000 kg,480 VDC,N/A,N/A,IP55
+E86001,Telecommunication Network Switch,Active,Network Switch,86,Company Y,440x650x350 mm,10 kg,48 VDC,5 A,N/A,IP30
+E86002,Satellite Communication Dish,Active,Satellite Dish,86,Company Z,2400 mm diameter,N/A,N/A,N/A,N/A,IP65
+E87001,Pressure Transmitter,Active,Transmitter,87,Company X,150x150x120 mm,1 kg,24 VDC,4-20 mA,N/A,IP67
+E87002,Flow Meter,Active,Flow Measurement,87,Company Y,200x500x200 mm,5 kg,220 VAC,10 A,50/60 Hz,IP68
+E88001,Earthing Rod System,Active,Earthing Rod,88,Company X,N/A,N/A,N/A,N/A,N/A,IP68
+E88002,Surge Protection Device,Active,SPD,88,Company Z,100x200x150 mm,1.5 kg,500 V,20 kA,50/60 Hz,IP20
+E89001,Auxiliary Power Unit,Inactive,APU,89,Company Y,800x800x600 mm,100 kg,24 VDC,10 A,N/A,IP21
+E89002,Turbine Oil Cooling System,Active,Cooling System,89,Company X,2000x2500x1500 mm,500 kg,N/A,N/A,N/A,IP54"

@@ -1,0 +1,11 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+T81001,Transformer Unit,Operational,Transformer,81,Company Y,2500x4000x3200 mm,8000 kg,4.5 kV,1000 A,50 Hz,IP44
+P82001,Main Distribution Panel,Active,Panel,82,Company Z,2000x5000x600 mm,1000 kg,690 V,1600 A,60 Hz,IP42
+G83001,Diesel Generator Set,Emergency,Generator,83,Company X,3500x1500x2500 mm,4500 kg,NA,NA,NA,IP23
+B84001,Emergency Lighting Unit,Maintenance,Lights,84,Company A,1000x300x500 mm,50 kg,110 V,NA,NA,IP65
+B85001,Lead Acid Battery Bank,Operational,Battery Bank,85,Company B,2000x600x1800 mm,1500 kg,220 V,500 Ah,NA,IP20
+C86001,Fiber Optic Cable,Active,Cabling,86,Company C,NA,NA,NA,NA,NA,IP68
+S87001,Pressure Sensor,Operational,Sensor,87,Company D,50x50x100 mm,0.5 kg,24 V,100 mA,NA,IP67
+L88001,Lightning Arrestor,Active,Arrestor,88,Company E,100x200x500 mm,10 kg,1000 kV,NA,NA,IP20
+X89001,Generic Equipment,Not Defined,Not Defined,89,Company X,NA,NA,NA,NA,NA,NA"

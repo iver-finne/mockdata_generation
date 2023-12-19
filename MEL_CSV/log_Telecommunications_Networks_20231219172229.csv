@@ -1,0 +1,34 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Power Transformer Unit,Operational,PTR,81,Company X,2800x3800x3100 mm,8000 kg,6.3 kV,500 A,60 Hz,IP23
+E80003,Low Voltage Distribution Panel,Installed,LVD,82,Company X,800x2000x600 mm,120 kg,400 V,800 A,50 Hz,IP44
+E80004,Diesel Generator Set,Maintenance,DGS,83,Company X,3500x1500x1800 mm,4500 kg,N/A,N/A,N/A,IP23
+E80005,Uninterruptible Power Supply,Active,UPS,85,Company X,600x800x1000 mm,150 kg,220 V,50 A,60 Hz,IP20
+E80006,Signal Booster Antenna,Operational,SBA,86,Company X,150x250x100 mm,3 kg,N/A,N/A,N/A,IP65
+E80007,Process Control System,Commissioning,PCS,87,Company X,2000x1000x600 mm,500 kg,N/A,N/A,N/A,IP55
+E80008,Advanced Surge Protection,Installed,ASP,88,Company X,250x400x180 mm,10 kg,500 V,N/A,N/A,IP66
+E80009,Monitoring Device,Active,MON,89,Company X,300x200x150 mm,2 kg,24 V,1.2 A,50 Hz,IP54
+E80010,Circuit Breaker Panel,Operational,CBP,82,Area Y,600x2200x600 mm,700 kg,690 V,630 A,50 Hz,IP41
+E80011,Emergency Lighting System,Inactive,ELS,84,Area Y,300x350x80 mm,4 kg,230 V,N/A,50 Hz,IP65
+E80012,Battery Storage System,Maintenance,BSS,85,Area Y,1200x1200x800 mm,850 kg,48 V,500 Ah,N/A,IP22
+E80013,Fiber Optic Transmission,Installed,FOT,86,Area Y,100x50x25 mm,0.2 kg,N/A,N/A,N/A,IP68
+E80014,RTU Panel System,Active,RTU,87,Area Y,800x600x300 mm,40 kg,N/A,N/A,N/A,IP54
+E80015,Static Earthing System,Operational,SES,88,Area Y,200x300x100 mm,15 kg,N/A,N/A,N/A,IP67
+E80016,Maintenance Diagnostic Tool,Under Testing,MDT,89,Area Y,300x200x50 mm,1.5 kg,110 V,0.8 A,60 Hz,IP50
+E80017,Power Inverter,Active,PWR,83,Company X,450x800x400 mm,30 kg,110 V,45 A,60 Hz,IP21
+E80018,Data Communication Equipment,Inactive,DCE,86,Company X,1000x500x300 mm,18 kg,N/A,N/A,N/A,IP30
+E80019,Fire and Gas Detection System,Operational,FGDS,87,Area Y,500x600x200 mm,12 kg,24 V,250 mA,50 Hz,IP42
+E80020,Lightning Arrester,Installed,LA,88,Area Y,75x160x50 mm,0.5 kg,1 kV,N/A,N/A,IP67
+E80021,Network Switch Rack,Commissioning,NSR,86,Company X,600x2200x1000 mm,120 kg,N/A,N/A,N/A,IP22
+E80022,Pressure Transmitter,Active,PST,87,Company X,100x120x90 mm,0.6 kg,24 V,4-20 mA,DC,N/A
+E80023,Standby Power System,Maintenance,SPS,84,Area Y,2500x1000x1500 mm,3000 kg,N/A,N/A,N/A,IP20
+E80024,Solar Panel Array,Operational,SOL,80,Area Y,1980x992x40 mm,22 kg,N/A,N/A,N/A,IP68
+E80025,Dynamic Brake Resistor Unit,Installed,DBR,82,Company X,400x500x300 mm,25 kg,750 V,150 A,50 Hz,IP23
+E80026,Output Filter Reactor,Active,OFR,83,Area Y,300x400x200 mm,35 kg,415 V,60 A,50 Hz,IP00
+E80027,Fuel Cell Power Module,Operational,FPM,85,Area Y,1000x800x1500 mm,200 kg,48 V,50 A,DC,IP20
+E80028,Grounding Rod,Installed,GR,88,Company X,1000x20x20 mm,5 kg,N/A,N/A,N/A,IP68
+E80029,Custom Configurable Controller,Active,CCC,87,Company X,600x800x300 mm,17 kg,N/A,N/A,N/A,IP65
+E80030,Multipurpose Communication Satellite Simulator,Under Testing,MCSS,89,Area Y,2000x1500x600 mm,320 kg,N/A,N/A,N/A,IP34
+E80031,High Voltage Disconnect Switch,Operational,HVDS,80,Area Y,2500x1200x600 mm,1100 kg,138 kV,1200 A,60 Hz,IP54
+E80032,Medium Voltage Soft Starter,Maintenance,MVSS,81,Company X,900x400x1200 mm,95 kg,3.3 kV,800 A,50 Hz,IP41
+E80033,Automatic Transfer Switch Panel,Installed,ATS,83,Area Y,600x2000x600 mm,500 kg,240 V,200 A,60 Hz,IP42"

@@ -1,0 +1,35 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer T1,Active,Transformer,80,Company X,3500x5000x4300 mm,12000 kg,132 kV,2500 A,60 Hz,IP42
+E80003,Overhead Transmission Lines,Active,Cable,80,Company X,NA,NA,138 kV,NA,60 Hz,NA
+E80004,Main Distribution Panel,Active,Panel Board,81,Company X,2000x600x2200 mm,800 kg,3.3 kV,4000 A,50 Hz,IP31
+E80005,Gas Insulated Switchgear,Active,Switchgear,81,Company X,2200x1600x1800 mm,6300 kg,4.16 kV,3000 A,60 Hz,IP67
+E80006,AC Compressor Motor,Active,Motor,82,Company X,1500x1200x1600 mm,350 kg,400 V,250 A,50 Hz,IP55
+E80007,Frequency Converter,Active,Converter,82,Company X,800x600x1200 mm,120 kg,480 V,150 A,Variable,IP20
+E80008,Diesel Generator Set,Active,Generator,84,Company X,4500x1800x2300 mm,8700 kg,480 V,NA,60 Hz,IP23
+E80009,Uninterruptible Power Supply (UPS),Active,UPS,85,Company X,800x400x200 mm,60 kg,240 V,10 A,50/60 Hz,IP21
+E80010,Data Network Router,Active,Router,86,Company X,440x420x44 mm,5 kg,NA,NA,NA,IP00
+E80011,Temperature Control Module,Active,Controller,87,Company X,300x200x150 mm,3 kg,24 V DC,NA,NA,IP65
+E80012,Lightning Conductor Mast,Active,Conductor,88,Company X,NA,NA,NA,NA,NA,NA
+E81001,High Voltage Cable Feeder,Active,Cable,80,Company X,NA,NA,110 kV,1250 A,50 Hz,NA
+E81002,Capacitor Bank,Active,Capacitor,82,Company X,1000x2000x1000 mm,500 kg,415 V,300 A,50 Hz,IP54
+E81003,Power Factor Correction Panel,Active,PFC Panel,82,Area Y,600x2100x600 mm,250 kg,690 V,150 A,50 Hz,IP42
+E81004,Gas Circuit Breaker,Active,Circuit Breaker,83,Company X,1500x2500x1300 mm,4000 kg,13.8 kV,2500 A,60 Hz,IP54
+E81005,Emergency Lighting Inverter,Active,Inverter,84,Area Y,500x300x200 mm,20 kg,240 V,2 A,50 Hz,IP20
+E81006,Lead-acid Battery Pack,Active,Battery,85,Company X,520x240x250 mm,45 kg,12 V DC,100 Ah,NA,IP20
+E81007,Fiber Optic Switch,Active,Switch,86,Area Y,440x350x44 mm,4 kg,NA,NA,NA,IP20
+E81008,Wireless Temperature Sensor,Active,Sensor,87,Company X,80x80x60 mm,0.1 kg,3.6 V DC,NA,NA,IP68
+E82001,Chiller Unit,Inactive,Chiller,82,Area Y,2500x2000x2400 mm,2000 kg,460 V,30 A,60 Hz,IP44
+E82002,Steam Turbine,Active,Turbine,80,Company X,4000x3000x3000 mm,20000 kg,13.8 kV,NA,60 Hz,IP55
+E82003,Standby Power Panel,Active,SP Panel,84,Company X,2400x600x2000 mm,1500 kg,480 V,200 A,60 Hz,IP22
+E82004,Seismic Sensor,Active,Sensor,87,Company X,200x150x100 mm,2 kg,24 V DC,NA,NA,IP67
+E82005,Industrial Ethernet Switch,Active,Ethernet Switch,86,Area Y,440x210x44 mm,3.5 kg,NA,NA,NA,IP30
+E83001,AC Distribution Board,Inactive,Distribution Board,82,Company X,1000x500x1200 mm,350 kg,240 V,300 A,50 Hz,IP54
+E83002,Power Supply Unit,Inactive,PSU,85,Area Y,220x140x90 mm,2.5 kg,24 V DC,5 A,NA,IP44
+E83003,Surge Protection Device,Active,SPD,88,Company X,300x250x180 mm,5 kg,275 V AC,NA,NA,IP20
+E83004,Protocol Converter,Active,Converter,87,Company X,100x70x25 mm,0.3 kg,24 V DC,NA,NA,IP40
+E89001,Custom Bioreactor,Active,Bioreactor,89,Area Y,2000x1000x2000 mm,1000 kg,220 V,15 A,60 Hz,IP65
+E89002,Biohazard Safety Cabinet,Active,Safety Cabinet,89,Company X,1200x750x2250 mm,150 kg,110 V,5 A,60 Hz,IP52
+E89003,Laboratory Centrifuge,Active,Centrifuge,89,Area Y,550x650x900 mm,120 kg,240 V,5 A,50 Hz,IP20
+E89004,Autoclave,Active,Sterilizer,89,Company X,600x600x1040 mm,200 kg,230 V,10 A,50 Hz,IP20
+E89005,PCR Thermal Cycler,Active,Thermal Cycler,89,Area Y,330x370x250 mm,11 kg,100 V,1.5 A,50/60 Hz,IP30
+E89006,Gel Electrophoresis System,Active,Electrophoresis,89,Company X,450x160x150 mm,7 kg,110 V,0.3 A,50 Hz,IP20"

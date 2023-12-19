@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer Station,Active,PTR,80,Company X,2500x4000x3000 mm,5000 kg,33 kV,2500 A,50 Hz,IP43
+E80003,Distribution Panel,Active,DB,80,Company X,800x2000x600 mm,350 kg,415 V,800 A,50 Hz,IP55
+E80004,Emergency Generator,On-Standby,GND,80,Company X,3500x1500x2000 mm,4500 kg,415 V,1500 A,50 Hz,IP23
+E80101,Uninterrupted Power Supply,Active,UPS,81,Company X,600x1200x400 mm,200 kg,240 V,500 A,50 Hz,IP21
+E80102,Surge Protection Device,Active,SPD,81,Company X,300x150x250 mm,5 kg,240 V,40kA,50 Hz,IP20
+E80103,Redundant Power System,Active,RPS,81,Company X,2000x800x600 mm,1000 kg,240 V,100 A,50 Hz,IP22
+E80201,Sub-Main Switchboard,Active,SMS,82,Company X,2200x1200x600 mm,1200 kg,415 V,1600 A,50 Hz,IP54
+E80202,Power Factor Correction Unit,Active,PFC,82,Company X,800x600x2000 mm,300 kg,415 V,300 A,50 Hz,IP40
+E80203,Isolation Transformer,Active,ITR,82,Company X,1200x800x1600 mm,850 kg,415 V,250 A,60 Hz,IP23
+E80301,Variable Frequency Drive,Active,VFD,83,Company X,800x400x200 mm,45 kg,415 V,100 A,0-400 Hz,IP55
+E80302,Soft Starter,Active,SS,83,Company X,600x350x300 mm,30 kg,415 V,200 A,50 Hz,IP54
+E80303,Motor Control Center,Active,MCC,83,Company X,2200x1200x600 mm,1500 kg,415 V,1600 A,50 Hz,IP54
+E80401,PLC Control Panel,Active,PLC,84,Company X,600x600x210 mm,60 kg,24V DC,10 A,DC,IP55
+E80402,SCADA System Interface,Active,SCADA,84,Company X,800x600x1100 mm,150 kg,230 V,20 A,50/60 Hz,IP50
+E80403,Distributed Control System,Active,DCS,84,Company X,2400x1800x400 mm,300 kg,230 V,100 A,50/60 Hz,IP52
+E80501,Clean Room Lighting System,Active,CR-LIGHT,85,Company X,100x100x100 mm,1 kg,240 V,0.5A,50 Hz,IP65
+E80502,HEPA Filter Power Module,Active,HEPA-PWR,85,Company X,300x300x150 mm,15 kg,240 V,1.0 A,50 Hz,IP54
+E80503,Environmental Monitoring System,Active,EMS,85,Company X,400x300x200 mm,25 kg,24V DC,2 A,DC,IP55
+E80601,Laboratory Refrigerator,Active,LR,86,Company X,800x600x1850 mm,85 kg,240 V,1.5 A,50 Hz,IP20
+E80602,High Precision Scale,Active,HPS,86,Company X,400x500x400 mm,20 kg,240 V,0.2 A,50 Hz,IP65
+E80603,Automated Pipetting System,Active,APS,86,Company X,1600x800x400 mm,120 kg,110 V,3 A,60 Hz,IP54
+E80701,Batch Processing Control System,Active,BPCS,87,Company X,600x800x300 mm,35 kg,24V DC,10 A,DC,IP65
+E80702,Blister Packing Machine,Active,BPM,87,Company X,3000x1000x2000 mm,1500 kg,415 V,4 A,50 Hz,IP54
+E80703,Tablet Coating System,Active,TCS,87,Company X,2500x2500x2100 mm,2000 kg,415 V,8 A,50 Hz,IP64
+E80801,Quality Control Lab Equipment,Active,QCLE,88,Company X,Various,Varies,110/220 V,Varies,50/60 Hz,IP Various
+E80802,Automated Inspection Machine,Active,AI,88,Company X,2000x1500x2000 mm,1800 kg,240 V,10 A,50 Hz,IP65
+E80803,UV Spectrophotometer,Active,UVS,88,Company X,600x650x450 mm,45 kg,110 V,0.6 A,60 Hz,IP20
+E80901,Building Management System Interface,Active,BMS,89,Company X,600x600x300 mm,25 kg,24V DC,5 A,DC,IP55
+E80902,Staff Training Simulation Station,Active,STSS,89,Company X,1200x800x1100 mm,600 kg,240 V,15 A,50 Hz,IP50
+E80903,Waste Disposal System Control Panel,Active,WDSCP,89,Company X,1200x1000x300 mm,80 kg,415 V,20 A,50 Hz,IP54"

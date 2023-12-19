@@ -1,0 +1,27 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer Inlet Feeder,Active,Transformer,80,Company X,3500x4500x3500 mm,12500 kg,145 kV,5000 A,50 Hz,IP55
+E81003,Medium Voltage Bus Duct,Active,Distribution,81,Company X,2000x1000x1000 mm,1500 kg,35 kV,1000 A,50 Hz,IP54
+E82004,Synchronous Generator,Active,Generation,82,Company X,5000x6500x4500 mm,35000 kg,13.8 kV,50000 A,50 Hz,IP55
+E83005,Power Capacitor Bank,Active,Quality Control,83,Company X,600x800x500 mm,300 kg,11 kV,200 A,50 Hz,IP42
+E84006,Grounding Resistor,Active,Safety,84,Company X,700x700x700 mm,100 kg,0.48 kV,1200 A,60 Hz,IP56
+E85007,Outdoor Breaker,Active,Protection,85,Company X,800x1200x1000 mm,600 kg,33 kV,2500 A,50 Hz,IP54
+E86008,Indoor Switchgear,Active,Load Control,86,Company X,2200x3200x2400 mm,3200 kg,13.8 kV,1500 A,60 Hz,IP55
+E87009,Automatic Transfer Switch,Active,Distribution,87,Company X,1600x1400x600 mm,500 kg,600 V,600 A,60 Hz,IP52
+E88010,Diesel Rotary UPS,Active,Backup Power,88,Company X,4000x5000x2500 mm,11000 kg,480 V,1000 A,60 Hz,IP53
+E89111,Emergency Lighting System,Active,Safety Lighting,89,Company X,300x1200x300 mm,20 kg,230 V,0.2 A,50 Hz,IP65
+E80012,High Voltage Cable,Active,Cabling,80,Company X,10000 m,10 kg/m,145 kV,2000 A,50 Hz,IP68
+E81013,Voltage Regulator,Active,Regulation,81,Company X,1000x800x1200 mm,400 kg,33 kV,500 A,60 Hz,IP55
+E82014,Load Bank,Active,Testing,82,Company X,2400x2000x2200 mm,2500 kg,400 V,3000 A,50 Hz,IP54
+E83015,Harmonic Filter,Active,Quality Control,83,Company X,1600x1800x1200 mm,800 kg,11 kV,800 A,50 Hz,IP44
+E84016,Negative Grounding Resistor,Active,Safety,84,Company X,600x600x600 mm,50 kg,400 V,20 A,50 Hz,IP56
+E85017,Circuit Breaker,Active,Protection,85,Company X,400x600x500 mm,40 kg,36 kV,630 A,50 Hz,IP55
+E86018,Automatic Voltage Regulator,Active,Control,86,Company X,1000x2000x800 mm,500 kg,13.8 kV,400 A,60 Hz,IP43
+E87019,Static Transfer Switch,Active,Distribution,87,Company X,1000x1500x1000 mm,800 kg,440 V,400 A,60 Hz,IP51
+E88020,Gas Insulated Switchgear,Active,Switching,88,Company X,3000x4000x3000 mm,8000 kg,13.8 kV,2500 A,50 Hz,IP54
+E89121,Explosion Proof Luminaire,Active,Lighting,89,Company X,300x300x250 mm,15 kg,120 V,0.4 A,60 Hz,IP67
+E80022,Pole Mounted Transformer,Active,Transformer,80,Company X,1200x2000x1500 mm,1200 kg,33 kV,500 A,50 Hz,IP55
+E81023,Energy Management System,Active,Management,81,Company X,3000x5000x2000 mm,10000 kg,N/A,N/A,50 Hz,IP50
+E82024,Battery Storage System,Active,Storage,82,Company X,2000x3000x1500 mm,5000 kg,750 V,1000 A,DC,IP65
+E83025,Voltage Stabilizer,Active,Quality Improvement,83,Company X,700x1000x700 mm,200 kg,400 V,100 A,50 Hz,IP42
+E84026,Overhead Earth Wire,Active,Grounding,84,Company X,10000 m,0.5 kg/m,0 V,N/A,N/A,IP67
+E85027,Disconnect Switch,Active,Protections,85,Company X,800x1000x800 mm,150 kg,34.5 kV,800 A,60 Hz,IP54"

@@ -1,0 +1,41 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer,Active,Power Conversion,80,Company X,1500x2500x2200 mm,3500 kg,11/0.4 kV,1000 A,50 Hz,IP43
+E80003,Diesel Generator Set,Active,Backup Power Generation,80,Company X,3500x1500x2000 mm,4500 kg,0.4 kV,600 A,50 Hz,IP23
+E80004,Uninterruptible Power Supply,Active,Power Protection,80,Company X,600x800x1000 mm,200 kg,0.4 kV,400 A,50/60 Hz,IP20
+E80005,Motor Control Center,Active,Motor Management,80,Company X,2000x4000x2400 mm,5000 kg,0.4 kV,1600 A,50 Hz,IP54
+E80006,Automatic Transfer Switch,Active,Power Transfer,80,Company X,600x1200x600 mm,150 kg,0.4 kV,250 A,50 Hz,IP34
+E80007,Static VAR Compensator,Active,Power Quality,80,Company X,2400x5000x3000 mm,10000 kg,11 kV,500 A,50 Hz,IP44
+E81001,Programmable Logic Controller,Active,Control Logic,81,Area Y,400x600x200 mm,30 kg,24V DC,10 A,DC,IP20
+E81002,Human Machine Interface,Active,User Interface,81,Area Y,300x200x150 mm,5 kg,24V DC,2 A,DC,IP65
+E81003,Distributed Control System,Active,Process Control,81,Area Y,2500x5000x2200 mm,2000 kg,120V AC,20 A,60 Hz,IP55
+E81004,Remote I/O Panel,Active,Signal Processing,81,Area Y,500x700x250 mm,20 kg,24V DC,5 A,DC,IP20
+E81005,Safety Instrumented System,Active,Safety Control,81,Area Y,600x800x300 mm,40 kg,24V DC,10 A,DC,IP54
+E82001,Centrifuge,Active,Sample Preparation,82,Area Y,600x300x600 mm,50 kg,220V AC,8 A,50/60 Hz,IP20
+E82002,Vortex Mixer,Active,Liquid Handling,82,Area Y,200x150x100 mm,2 kg,110V AC,0.5 A,50/60 Hz,IP42
+E82003,Pipette Controller,Active,Sample Transfer,82,Area Y,150x50x50 mm,0.3 kg,3V DC,2 A,DC,IP22
+E82004,Thermal Cycler,Active,DNA Amplification,82,Area Y,600x350x400 mm,30 kg,100V AC,12 A,50/60 Hz,IP30
+E82005,Spectrophotometer,Active,Molecular Analysis,82,Area Y,500x450x250 mm,25 kg,100V AC,10 A,50/60 Hz,IP21
+E83001,HEPA Filter System,Active,Air Filtration,83,Company X,1000x1500x600 mm,150 kg,N/A,N/A,N/A,IP65
+E83002,Laminar Flow Cabinet,Active,Sample Protection,83,Area Y,1200x800x1500 mm,100 kg,110V AC,4 A,60 Hz,IP54
+E83003,Biological Safety Cabinet,Active,Pathogen Containment,83,Area Y,1400x750x2200 mm,200 kg,220V AC,7 A,50 Hz,IP52
+E83004,Ultralow Temperature Freezer,Active,Sample Storage,83,Area Y,800x800x2000 mm,220 kg,220V AC,14 A,60 Hz,IP20
+E84001,Chromatography System,Active,Chemical Separation,84,Area Y,1200x600x1000 mm,500 kg,110V AC,15 A,50/60 Hz,IP30
+E84002,Mass Spectrometer,Active,Molecular Analysis,84,Area Y,1900x800x1500 mm,850 kg,230V AC,25 A,50 Hz,IP52
+E84003,Gas Generator,Active,Reagent Supply,84,Company X,900x600x900 mm,120 kg,110V AC,8 A,50/60 Hz,IP40
+E85001,Electrophoresis Power Supply,Active,DNA Sequencing,85,Area Y,300x400x150 mm,15 kg,110V AC,1 A,50/60 Hz,IP30
+E85002,Liquid Chromatography System,Active,Protein Analysis,85,Area Y,1500x750x1200 mm,450 kg,220V AC,20 A,50 Hz,IP32
+E86001,Emergency Eyewash Station,Active,Emergency Safety,86,Company X,300x300x150 mm,8 kg,N/A,N/A,N/A,IP24
+E86002,Fire Suppression System,Active,Fire Safety,86,Company X,2500x1800x1200 mm,500 kg,N/A,N/A,N/A,IP68
+E86003,Hazardous Material Storage,Active,Material Safety,86,Area Y,2000x1500x1000 mm,300 kg,N/A,N/A,N/A,IP65
+E87001,LED Growth Chamber,Active,Cultivation Support,87,Area Y,1800x800x1900 mm,400 kg,240V AC,10 A,50 Hz,IP55
+E87002,CO2 Incubator,Active,Cell Culture,87,Area Y,800x700x900 mm,90 kg,110V AC,5 A,50/60 Hz,IP32
+E88001,Network Switch,Active,Data Communication,88,Company X,440x350x44 mm,4 kg,48V DC,1.5 A,DC,IP20
+E88002,Server,Active,Data Management,88,Company X,600x800x2000 mm,80 kg,220V AC,2 A,50 Hz,IP22
+E88003,Data Logger,Active,Experiment Tracking,88,Area Y,150x100x50 mm,0.5 kg,9V DC,0.2 A,DC,IP50
+E88004,Wireless Access Point,Active,Network Extension,88,Company X,200x200x50 mm,0.6 kg,5V DC,1 A,DC,IP30
+E88005,Security Camera,Active,Lab Surveillance,88,Company X,100x100x100 mm,1 kg,12V DC,0.5 A,DC,IP66
+E89001,Environmental Monitoring System,Active,Environment Sensing,89,Area Y,500x400x300 mm,10 kg,24V AC,1.5 A,50/60 Hz,IP65
+E89002,Lab Equipment Tracking System,Active,Asset Management,89,Company X,250x150x100 mm,2 kg,24V DC,0.5 A,DC,IP55
+E89003,Automation Integration Module,Active,Lab Automation,89,Company X,600x500x200 mm,25 kg,48V DC,3 A,DC,IP54
+E89004,Waste Management System,Active,Lab Cleanup,89,Area Y,1500x1000x1200 mm,320 kg,N/A,N/A,N/A,IP50
+E89005,Furniture and Fixtures,Active,Lab Furnishing,89,Area Y,Variable,Variable,N/A,N/A,N/A,N/A"

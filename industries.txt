@@ -1,21 +1,31 @@
 industry,application
-Offshore Oil & Gas,Production, Drilling Systems, Subsea Operations
-Onshore Oil & Gas,Processing, Refinement, Petrochemicals
-Thermal Power Generation,Coal-Fired Plants, Combustion Control Systems
-Renewable Power Generation,Hydroelectric, Wind Farms, Solar Plants
-Maritime,Shipbuilding & Systems, Navigation Equipment
-Mining,Operations, Automated Drilling Rigs
-Water Treatment,Facilities, Filtration and Distribution Control
-Pharmaceutical,Production, Batch Process Control
-Pulp & Paper,Mills, Automated Cutting Lines
-Food & Beverage,Processing Plants, Packaging Lines
-Automotive,Assembly Lines, Robotics and Automation Systems
-Aerospace,Component Manufacturing, Precision Engineering
-Construction,Infrastructure, Smart Building Management
-Telecommunications,Networks, Data Transmission Equipment
-Healthcare,Hospital Systems, Medical Imaging Devices
-Consumer Electronics,Component Fabrication, Assembly Line Automation
-Transportation,Railway Systems, Signaling and Control Equipment
-Environmental Management,Waste Facilities, Incineration Control Systems
-Agriculture,Machinery, Irrigation Control Systems
-Research & Development,Biotechnology Labs, Experimental Setups
+Offshore Oil & Gas,Production Optimization, Drilling Systems, Subsea Operations
+Onshore Oil & Gas,Upstream Automation, Downstream Processing, Refinement
+Thermal Power Generation,Coal-Fired Plant Optimization, Combustion Control Systems
+Renewable Power Generation,Wind Farm Management, Solar Energy Systems, Hydroelectric Solutions
+Maritime,Advanced Shipbuilding Techniques, Navigation Equipment
+Mining,Smart Mining Operations, Automated Drilling Rigs
+Water Treatment,Advanced Water Facilities, Filtration and Distribution Control
+Pharmaceutical,High-Efficiency Production, Batch Process Control
+Pulp & Paper,Modern Mills, Automated Cutting Lines
+Food & Beverage,Smart Processing Plants, Sustainable Packaging Lines
+Automotive,Advanced Assembly Lines, Robotics and Automation Systems
+Aerospace,High-Precision Component Manufacturing, Advanced Engineering Solutions
+Construction,Smart Infrastructure, Integrated Building Management
+Telecommunications,Next-Gen Networks, Advanced Data Transmission Equipment
+Healthcare,Integrated Hospital Systems, Cutting-Edge Medical Imaging Devices
+Consumer Electronics,High-Tech Component Fabrication, Efficient Assembly Line Automation
+Transportation,Intelligent Railway Systems, Advanced Signaling and Control Equipment
+Environmental Management,Green Waste Facilities, Eco-Friendly Incineration Control Systems
+Agriculture,Smart Farming Machinery, Sustainable Irrigation Control Systems
+Research & Development,Innovative Biotechnology Labs, Advanced Experimental Setups
+Industrial Automation,Factory Automation Solutions, Process Control Systems
+Electric Power Distribution,Grid Modernization, Smart Grid Solutions
+Chemical Processing,Process Optimization, Safety Management Systems
+Semiconductor Manufacturing,Chip Fabrication, Precision Equipment Automation
+Data Centers,Efficient Cooling Systems, Energy Management
+Marine Energy,Offshore Wind Solutions, Tidal Energy Systems
+Nuclear Energy,Nuclear Plant Safety Systems, Operational Efficiency Improvement
+Robotics and Automation,Robot System Integration, Automated Manufacturing
+Waste-to-Energy,Conversion Technologies, Emission Control Systems
+Advanced Manufacturing,3D Printing Solutions, Digital Factory Technologies

@@ -1,0 +1,23 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80002,Transformer Station,Active,Power Transformer,80,Company X,3500x4500x4100 mm,12000 kg,132 kV,2x1500 A,60 Hz,IP55
+E80003,Outdoor Circuit Breaker,Active,SF6 Circuit Breaker,80,Company X,1650x2550x3000 mm,3200 kg,132 kV,2500 A,50 Hz,IP54
+E80004,Distribution Busbar,Active,Busbar,80,Company X,1500x4000x300 mm,1500 kg,33 kV,500 A,50 Hz,IP66
+E80005,Generator,Under Maintenance,Diesel Generator,80,Company X,2500x6500x3000 mm,8000 kg,11 kV,625 A,50 Hz,IP23
+E80101,Motor Control Center,Active,Switchgear,81,Area Y,2000x5000x2200 mm,4000 kg,415 V,400 A,50 Hz,IP54
+E80102,Transfer Switch,Active,Automatic Transfer Switch,81,Area Y,800x2000x600 mm,350 kg,480 V,600 A,60 Hz,IP42
+E80201,Submersible Pump Motor,Active,Electric Motor,82,Company X,900x1600x900 mm,300 kg,400 V,15 A,50 Hz,IP68
+E80202,Blower Assembly,Active,Air Blower,82,Area Y,2400x2400x2000 mm,1500 kg,415 V,75 A,50 Hz,IP55
+E80301,Sludge Dewatering Press,Active,Filter Press,83,Company X,2200x6000x2500 mm,5000 kg,240 V,20 A,60 Hz,IP65
+E80302,Chemical Dosing Skid,Active,Dosing Pump,83,Area Y,1000x1500x1200 mm,500 kg,220 V,10 A,50 Hz,IP52
+E80401,Ultrafiltration Unit,Active,Filtration System,84,Company X,3000x8000x3000 mm,7000 kg,380 V,40 A,50 Hz,IP54
+E80402,Reverse Osmosis Membrane,Active,RO System,84,Area Y,1500x3500x1500 mm,2500 kg,415 V,30 A,60 Hz,IP56
+E80501,UV Disinfection System,Active,UV Treatment,85,Company X,1000x2500x1200 mm,600 kg,240 V,16 A,50 Hz,IP65
+E80502,Chlorination System,Active,Gas Chlorinator,85,Area Y,1200x1200x900 mm,800 kg,220 V,8 A,50 Hz,IP55
+E80601,PLC Control Panel,Active,PLC,86,Company X,800x1200x400 mm,200 kg,24 V DC,10 A DC,DC,IP65
+E80602,HMI Touchscreen,Active,Interface Terminal,86,Area Y,300x400x200 mm,10 kg,24 V DC,1 A DC,DC,IP54
+E80701,Energy Storage System,Commissioning,Battery System,87,Company X,3000x10000x3000 mm,20000 kg,48 V DC,500 A DC,DC,IP21
+E80702,Photovoltaic System,Active,Solar Panel,87,Area Y,1956x992x40 mm,20 kg,(Per Panel) DC,9 A DC,DC,IP67
+E80801,Wind Turbine,Active,Turbine Generator,88,Company X,Blade Length: 52m,Nacelle: 110000 kg,690 V,1200 A,60 Hz,IP54
+E80802,Control System Cabinet,Active,Turbine Controller,88,Area Y,600x800x2200 mm,350 kg,240 V,20 A,60 Hz,IP55
+E80901,Condensate Tank,Active,Storage Tank,89,Company X,2000x2000x5000 mm,2000 kg,N/A,N/A,N/A,IP44
+E80902,Wastewater Sampler,Active,Sampler,89,Area Y,500x800x400 mm,50 kg,24 V AC,2 A,50 Hz,IP54"

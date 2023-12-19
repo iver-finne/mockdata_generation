@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E81001,Transformer Station,Active,Transformer,81,Company X,2500x4000x3200 mm,8000 kg,3.3 kV,1200 A,60 Hz,IP42
+E82001,Distribution Panel,Active,Panel Board,82,Company X,800x2000x600 mm,500 kg,400 V,1000 A,50 Hz,IP55
+E83001,Diesel Generator,Active,Generator,83,Company X,3500x1500x1800 mm,4500 kg,220 V,NA,60 Hz,IP23
+E84001,Emergency Power Unit,Active,Power Unit,84,Company X,3200x1800x1900 mm,3100 kg,110 V,500 A,60 Hz,IP44
+E85001,Lead Acid Battery,Active,Battery,85,Company X,400x800x300 mm,30 kg,12 V,100 A,NA,IP20
+E86001,Fiber Optic Cable,Active,Telecommunication,86,Company X,NA,NA,NA,NA,NA,NA
+E87001,Pressure Transmitter,Active,Instrumentation,87,Company X,150x100x90 mm,5 kg,24 V,20 mA,NA,IP65
+E88001,Grounding Rod,Active,Earthing Equipment,88,Company X,2000 mm length,5 kg,NA,NA,NA,IP68
+E89001,Automatic Feeding System,Active,Feeding Equipment,89,Company X,2200x1800x2100 mm,1800 kg,230 V,10 A,50 Hz,IP52
+E80002,Power Cable,Active,Cable,80,Company X,NA,10 kg/km,33 kV,NA,50 Hz,IP67
+E81002,Switchyard,Under Maintenance,Switch Equipment,81,Company X,NA,NA,6.6 kV,NA,60 Hz,NA
+E82002,AC Drive,Operational,Drive,82,Company X,300x500x200 mm,25 kg,240 V,15 A,50/60 Hz,IP20
+E83002,Critical Load UPS,Active,UPS,83,Company X,600x1600x800 mm,450 kg,120 V,NA,60 Hz,IP21
+E84002,Emergency Lighting,Active,Lighting System,84,Company X,100x200x100 mm,2 kg,110 V,2 A,60 Hz,IP65
+E85002,Battery Charger,Operational,Charger,85,Company X,200x500x300 mm,15 kg,24 V,50 A,NA,IP22
+E86002,Communication Tower,Under Construction,Tower,86,Area Y,20000 mm height,12000 kg,NA,NA,NA,NA
+E87002,Flow Meter,Active,Flow Instrumentation,87,Area Y,200x150x130 mm,2.5 kg,24 V,4-20 mA,NA,IP67
+E88002,Lightning Arrester,Active,Protection Device,88,Area Y,100x300x100 mm,10 kg,NA,NA,NA,IP69
+E89002,Irrigation Control Unit,Active,Control Unit,89,Area Y,800x600x400 mm,45 kg,24 V,1.5 A,50 Hz,IP54
+E80003,Generator Circuit Breaker,Active,Breaker,80,Company X,600x1200x1500 mm,1300 kg,138 kV,3000 A,50 Hz,IP40
+E81003,Medium Voltage Switchboard,Operational,Switchboard,81,Area Y,2200x6000x2600 mm,4000 kg,2 kV,2500 A,50 Hz,IP31
+E82003,Control Panel,Active,Control Equipment,82,Area Y,800x2000x600 mm,100 kg,220 V,300 A,50 Hz,IP65
+E83003,Essential Power Bus,Active,Bus Bar,83,Area Y,2400x100x30 mm,80 kg,415 V,NA,50 Hz,IP00
+E84003,Auxiliary Power Unit,Active,APU,84,Area Y,1500x800x600 mm,700 kg,28 V,NA,400 Hz,IP30
+E85003,Nickel Cadmium Battery,Active,NiCad Battery,85,Area Y,200x550x150 mm,17 kg,1.2 V,150 A,NA,IP20
+E86003,Satellite Antenna,Active,Antenna,86,Company X,NA,50 kg,NA,NA,NA,NA
+E87003,Temperature Sensor,Active,Sensor,87,Company X,80x50x50 mm,0.3 kg,24 V,4 mA,NA,IP68
+E88003,Earthing Cable,Active,Earthing Component,88,Company X,10 m length,4 kg,NA,NA,NA,IPX8
+E89003,Climate Monitoring Station,Active,Monitoring Equipment,89,Area Y,500x1000x800 mm,25 kg,12 V,0.5 A,NA,IP55"
