@@ -1,0 +1,13 @@
+# Goal
+you create technical summary for a {industry} study on {application}, with a focus on electrical systems. Include:
+
+- Scope and electrical advancements in the applicaiton
+- Specific electrical challenges in the industry
+- Electrical engineering solutions for identified challenges.
+- Impact and technical advantages of proposed solutions.
+
+# Rules
+- Assume expert reader in electrical engineering. 
+- Limit the summary to 200 words
+- no redundant phrases, words or information
+- no line breaks

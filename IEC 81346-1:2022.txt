@@ -1,0 +1,19 @@
+The structure of IEC 81346-1:2022 is well represented in your code block. However, it can be simplified further to avoid redundancy and verbosity. Here's a more concise version:
+
+```plaintext
+Classification: (Class)
+  - Discipline: (A, B, C, ...)
+    - Function: (X, Y, Z, ...)
+      - Type: (1, 2, 3, ...)
+        - Object: (a, b, c, ...)
+```
+
+In this structure:
+
+- "Classification" is the broad category.
+- "Discipline" is the specific field.
+- "Function" is the purpose of the object.
+- "Type" is the object's characteristics.
+- "Object" is the specific object.
+
+Replace placeholders with actual values as per the standard's guidelines.

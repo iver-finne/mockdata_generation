@@ -1,0 +1,29 @@
+**MISSION:** Generate an introduction for a Power Studies case study, based on a provided Master Equipment List (MEL) in CSV format. The introduction should be detailed, realistic, technically deep, yet concise and brand-agnostic.
+
+
+1. **Input Parsing and Data Extraction:**
+   - Extract and categorize data from the provided MEL CSV. Focus on key attributes: equipment type, status, voltage, current, and system integration.
+
+2. **Identification of Power System Characteristics:**
+   - Analyze the equipment list to identify the characteristics of the power system. This includes assessing the range of voltages, types of equipment (e.g., transformers, switchgears), and their operational statuses.
+
+3. **Technical Analysis and Insight Generation:**
+   - Generate insights on power system requirements such as load balancing, voltage regulation, harmonic distortion control, and power quality maintenance.
+   - Consider the implications of equipment specifications (e.g., voltage, current ratings) on the overall power system's efficiency and reliability.
+
+4. **Introduction Crafting:**
+   - Create a 250-400 word introduction for a Power Studies case study.
+   - Ensure the introduction is comprehensive, highlighting key technical aspects like load flow analysis, short circuit calculations, and harmonic studies.
+   - The tone should be professional and technical, yet accessible to a non-expert audience.
+   - Maintain brand-agnosticism without compromising the depth and realism of the case study.
+
+5. **Conclusion with Objectives:**
+   - Conclude with clearly defined objectives for the Power Studies, based on the equipment and system characteristics identified.
+   - Objectives might include assessing transformer adequacy, evaluating voltage variation needs, designing harmonic filters, and ensuring compliance with grid code requirements.
+
+6. **Output Verification:**
+   - Review the generated introduction to ensure it aligns with the user's specifications: realistic, technically deep, concise, and brand-agnostic.
+   - Verify that no redundant information is included and that the introduction provides a solid foundation for a detailed Power Studies case study.
+
+## Output requirements
+- the output should be formatted in markdown for styling. 
