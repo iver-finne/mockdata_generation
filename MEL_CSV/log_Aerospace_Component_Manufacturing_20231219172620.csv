@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Step-up Transformer,Active,Transformer,80,Company Y,3500x5000x4500 mm,10000 kg,110 kV,1250 A,60 Hz,IP55
+E80003,High Voltage Circuit Breaker,Active,Circuit Breaker,80,Company Z,1500x2500x2000 mm,3000 kg,138 kV,2500 A,50 Hz,IP56
+E81001,Medium Voltage Switchboard,Active,Distribution Panel,81,Company A,1000x2000x2000 mm,1500 kg,3.3 kV,800 A,60 Hz,IP54
+E81002,Medium Voltage Transformer,Active,Transformer,81,Company B,3000x4000x3500 mm,8500 kg,4.16 kV,1000 A,60 Hz,IP23
+E81003,Soft Starter Panel,Active,Starter Panel,81,Company C,800x2000x1800 mm,600 kg,6.6 kV,400 A,50 Hz,IP42
+E82001,Low Voltage Distribution Board,Active,Distribution Board,82,Company D,2000x2200x600 mm,500 kg,690 V,2500 A,50 Hz,IP65
+E82002,AC Drives Panel,Active,Variable Frequency Drive,82,Company E,800x1600x600 mm,120 kg,480 V,300 A,60 Hz,IP21
+E82003,Uninterruptible Power Supply,Active,UPS,82,Company F,600x800x1200 mm,200 kg,400 V,500 A,50 Hz,IP20
+E83001,Essential Busbar System,Active,Busbar,83,Company G,1500x1500x1500 mm,1000 kg,1000 V,1500 A,50 Hz,IP68
+E83002,Emergency Lighting Inverter,Active,Inverter,83,Company H,500x1000x1500 mm,250 kg,230 V,100 A,60 Hz,IP65
+E83003,Essential Power Transformer,Active,Transformer,83,Company I,3200x4300x3100 mm,7200 kg,1150 V,800 A,60 Hz,IP23
+E84001,Diesel Generator Set,Active,Generator,84,Company J,4500x10000x3000 mm,20000 kg,440 V,3000 A,50 Hz,IP22
+E84002,Emergency Power Distribution Panel,Active,Distribution Panel,84,Company K,1800x2000x600 mm,300 kg,220 V,600 A,60 Hz,IP65
+E84003,Emergency Lighting Panel,Active,Control Panel,84,Company L,1000x2000x500 mm,200 kg,240 V,20 A,50 Hz,IP42
+E85001,Station Battery Set,Active,Battery,85,Company M,2500x10000x1000 mm,5000 kg,48 V,2000 A,DC,IP20
+E85002,Battery Charger Panel,Active,Charger,85,Company N,800x1600x600 mm,150 kg,110 V,100 A,60 Hz,IP21
+E85003,UPS Battery Cabinet,Active,Battery Cabinet,85,Company O,600x1200x2200 mm,700 kg,24 V,500 A,50 Hz,IP40
+E86001,Fiber Optic Distribution Frame,Active,Telecom Equipment,86,Company P,300x700x2200 mm,100 kg,N/A,N/A,N/A,IP30
+E86002,Telecommunication Rack,Active,Telecom Rack,86,Company Q,600x900x2000 mm,120 kg,N/A,N/A,N/A,IP20
+E86003,Public Address System,Active,PA System,86,Company R,480x360x240 mm,15 kg,N/A,N/A,N/A,IP44
+E87001,Programmable Logic Controller,Active,PLC,87,Company S,400x600x200 mm,20 kg,24 V,10 A,50 Hz,IP65
+E87002,Distributed Control System Panel,Active,DCS,87,Company T,2000x3000x600 mm,800 kg,230 V,40 A,60 Hz,IP54
+E87003,Gas Detector Panel,Active,Detection Panel,87,Company U,600x800x250 mm,50 kg,24 V,5 A,50 Hz,IP67
+E88001,Earthing Rod,Active,Grounding Equipment,88,Company V,20x2000 mm,5 kg,N/A,N/A,N/A,N/A
+E88002,Lightning Arrester,Active,Surge Protection,88,Company W,100x300x150 mm,10 kg,High Voltage,N/A,N/A,IP66
+E88003,Copper Strip Grounding System,Active,Earthing System,88,Company X,30x4 mm,30 kg/m,N/A,N/A,N/A,N/A
+E89001,Generic Control Console,Active,Control System,89,Company Y,1500x1000x1200 mm,200 kg,N/A,N/A,N/A,IP52
+E89002,Cabling Material Set,Active,Cable Set,89,Company Z,Various,50 kg,Various,Various,Various,IP00
+E89003,Mounting Brackets & Hardware Kit,Active,Mounting Hardware,89,Company A,100x100x50 mm,1 kg,N/A,N/A,N/A,N/A"

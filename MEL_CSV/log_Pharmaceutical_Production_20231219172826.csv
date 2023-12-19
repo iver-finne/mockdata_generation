@@ -1,0 +1,20 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer T1,Active,Transformer,80,Company X,2500x5000x4000 mm,10000 kg,110 kV,1500 A,60 Hz,IP23
+E80003,Substation Breaker,Active,Circuit Breaker,80,Company X,1500x3000x2500 mm,3500 kg,132 kV,2500 A,60 Hz,IP55
+E81001,Main Distribution Panel,Active,Distribution Panel,81,Company X,2000x4500x3500 mm,4000 kg,4.16 kV,3000 A,60 Hz,IP22
+E81002,Capacitor Bank B1,Active,Capacitor Bank,81,Company X,1800x2400x2000 mm,3200 kg,3.3 kV,2000 A,50 Hz,IP42
+E82001,Low Voltage Switchboard,Active,Switchboard,82,Company X,1600x2200x800 mm,1800 kg,400 V,5000 A,50 Hz,IP54
+E82002,Diesel Generator Set,Active,Generator Set,82,Company X,3200x1500x1800 mm,4500 kg,380 V,150 A,50 Hz,IP33
+E83001,UPS System,Active,Uninterruptible Power Supply,83,Company X,1000x2000x500 mm,300 kg,220 V,200 A,50 Hz,IP20
+E84001,Emergency Generator,Active,Diesel Generator,84,Company X,3500x4000x2500 mm,9000 kg,440 V,500 A,60 Hz,IP23
+E85001,Battery Room,Active,Battery Storage,85,Company X,6000x3000x2800 mm,8000 kg,N/A,N/A,N/A,IP44
+E86001,Fiber Optic Network,Active,Communication Network,86,Company X,N/A,N/A,N/A,N/A,N/A,IP65
+E86002,Telecom Tower,Active,Telecommunications Tower,86,Company X,50 m height,12000 kg,N/A,N/A,N/A,N/A
+E87001,Distributed Control System,Active,Control System,87,Company X,2000x4000x1800 mm,3500 kg,24 VDC,100 A,N/A,IP66
+E87002,Pressure Transmitter PT100,Active,Pressure Transmitter,87,Company X,150x140x120 mm,3 kg,24 VDC,20 mA,N/A,IP67
+E87003,Flame Detector FD200,Active,Flame Detector,87,Company X,170x90x70 mm,1.5 kg,24 VDC,4-20 mA,N/A,IP65
+E88001,Grounding System A,Active,Grounding System,88,Company X,N/A,N/A,N/A,N/A,N/A,IP00
+E88002,Lightning Arrester LA1,Active,Surge Arrester,88,Company X,800x400x300 mm,100 kg,6 kV,10 kA,N/A,IP68
+E89001,General Use Motor M1,Active,AC Motor,89,Company X,400x800x600 mm,120 kg,380 V,30 A,50 Hz,IP55
+E89002,Process Area Ventilation Fan,Active,Ventilation Fan,89,Company X,500x500x400 mm,50 kg,240 V,0.75 A,60 Hz,IP54"

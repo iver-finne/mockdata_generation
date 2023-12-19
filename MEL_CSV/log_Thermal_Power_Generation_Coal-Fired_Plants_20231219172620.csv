@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Main Transformer T1,Active,Power Transformer,80,Company X,4500x8000x4000 mm,120000 kg,230 kV,600 A,50 Hz,IP54
+E80003,Generator Circuit Breaker,Active,Circuit Breaker,80,Company X,2000x2500x3000 mm,3500 kg,145 kV,4000 A,50 Hz,IP55
+E80004,Turbine Control Panel,Active,Control Panel,80,Company X,800x600x2200 mm,550 kg,N/A,N/A,N/A,IP52
+E81101,Medium Voltage Motor Starter,Active,Motor Starter,81,Company X,1500x1200x2000 mm,1000 kg,6.6 kV,450 A,50 Hz,IP51
+E81102,Distribution Transformer T2,Active,Power Transformer,81,Company X,2500x3500x3000 mm,7000 kg,6.6 kV,200 A,60 Hz,IP54
+E81103,Medium Voltage VFD Panel,Active,VFD Panel,81,Company X,2200x700x2000 mm,1200 kg,3.3 kV,N/A,50 Hz,IP21
+E82101,Low Voltage Power Board,Active,Power Board,82,Company X,2500x600x2100 mm,1500 kg,400 V,3000 A,50 Hz,IP42
+E82102,UPS System,Active,Uninterruptible Power Supply,82,Company X,1000x500x1500 mm,300 kg,230 V,N/A,N/A,IP20
+E82103,AC Distribution Panel,Active,Distribution Panel,82,Company X,1800x600x2000 mm,750 kg,380 V,600 A,60 Hz,IP44
+E83101,Diesel Generator Set,Active,Generator Set,83,Company X,4000x1500x2500 mm,8500 kg,400 V,1250 A,50 Hz,IP23
+E83102,Automatic Transfer Switch,Active,Transfer Switch,83,Company X,800x800x1200 mm,300 kg,230 V,160 A,50 Hz,IP30
+E83103,Emergency Lighting System,Active,Lighting System,83,Company X,N/A,N/A,N/A,N/A,N/A,N/A
+E84101,Fire Pump Engine Generator,Active,Generator Set,84,Company X,3500x1200x1800 mm,6000 kg,400 V,400 A,50 Hz,IP23
+E84102,Emergency Power Panel,Active,Power Panel,84,Company X,2000x700x2100 mm,1000 kg,230 V,2000 A,60 Hz,IP42
+E85101,Battery Charger for Control Systems,Active,Battery Charger,85,Company X,500x800x1500 mm,150 kg,110 V,50 A,50 Hz,IP21
+E85102,Station Battery and Rack,Active,Battery Pack,85,Company X,2000x400x1000 mm,1200 kg,48 V,N/A,DC,IP20
+E85103,DC Distribution Board,Active,DC Power Board,85,Company X,1200x600x2000 mm,400 kg,110 V,100 A,DC,IP20
+E86101,Microwave Communication Tower,Active,Communication Tower,86,Company X,50000x50000x15000 mm,80000 kg,N/A,N/A,N/A,N/A
+E86102,Fiber Optic Patch Panel,Active,Patch Panel,86,Company X,300x200x100 mm,1 kg,N/A,N/A,N/A,N/A
+E86103,Telephone Exchange System,Active,Telecom System,86,Company X,600x800x2000 mm,100 kg,N/A,N/A,N/A,N/A
+E87101,Pressure Transmitter,Active,Transmitter,87,Company X,100x150x120 mm,2 kg,N/A,N/A,N/A,IP65
+E87102,Temperature Sensor,Active,Sensor,87,Company X,80x130x90 mm,1 kg,N/A,N/A,N/A,IP68
+E87103,Flow Meter,Active,Flow Measurement,87,Company X,300x200x150 mm,10 kg,N/A,N/A,N/A,IP67
+E88101,Earthing Rod System,Active,Earthing System,88,Company X,N/A,N/A,N/A,N/A,N/A,N/A
+E88102,Surge Protection Device,Active,Surge Protector,88,Company X,150x100x100 mm,1.5 kg,230 V,N/A,50 Hz,IP20
+E88103,Lightning Arrester for Main Plant,Active,Arrester,88,Company X,100x100x300 mm,5 kg,145 kV,N/A,N/A,IP55
+E89101,Instrument Air Compressor,Not Defined,Air Compressor,89,Area Y,2000x1200x1800 mm,1500 kg,N/A,N/A,N/A,IP54
+E89102,Portable Fire Extinguisher,Not Defined,Fire Extinguisher,89,Area Y,N/A,N/A,N/A,N/A,N/A,N/A
+E89103,Heat Tracing System,Not Defined,Heat Tracing,89,Area Y,N/A,N/A,N/A,N/A,N/A,N/A"

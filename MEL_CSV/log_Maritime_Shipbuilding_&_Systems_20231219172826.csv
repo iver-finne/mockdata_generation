@@ -1,0 +1,28 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Main Transformer T1,Operational,MTR,80,Company X,2300x4500x3100 mm,12000 kg,145 kV,5000 A,60 Hz,IP55
+E80003,Diesel Generator Set,Active,DGS,84,Company X,3500x12000x3200 mm,22000 kg,11 kV,2000 A,60 Hz,IP23
+E81001,Medium Voltage Switchboard,Operational,MVP,81,Company Y,800x2200x1800 mm,1500 kg,3.3 kV,1250 A,50 Hz,IP42
+E81002,Main Transformer T2,Active,MTR,81,Company Y,2100x4000x3000 mm,10000 kg,6.6 kV,4000 A,50 Hz,IP54
+E81003,Medium Voltage Distribution Panel,Maintenance,MVP,81,Company Y,1600x2500x1800 mm,1800 kg,4 kV,800 A,60 Hz,IP41
+E82001,Low Voltage Distribution Panel,Active,LVD,82,Company Z,750x2000x1500 mm,750 kg,400 V,1600 A,50 Hz,IP54
+E82002,Shore Power Converter,Operational,SPC,82,Company Z,900x2100x1900 mm,1000 kg,480 V,1250 A,60 Hz,IP44
+E82003,Low Voltage Motor Starter,Active,LMS,82,Company Z,600x1200x600 mm,150 kg,230 V,250 A,50 Hz,IP55
+E83001,Essential Switchboard,Operational,ESS,83,Company A,1000x2200x1700 mm,1200 kg,440 V,1000 A,60 Hz,IP22
+E83002,UPS for Control Systems,Active,UPS,83,Company A,1200x2000x800 mm,800 kg,110 V,500 A,50 Hz,IP21
+E84001,Emergency Diesel Generator,Standby,EDG,84,Company B,3000x7000x2500 mm,9000 kg,690 V,1800 A,50 Hz,IP23
+E84002,Emergency Switchgear,Operational,ESG,84,Company B,1400x2400x1600 mm,2000 kg,690 V,2000 A,50 Hz,IP54
+E85001,Battery Charger,Operational,BCR,85,Company C,500x800x400 mm,25 kg,24 V,100 A,50 Hz,IP20
+E85002,Uninterruptible Power Supply,Active,UPS,85,Company C,600x1000x600 mm,200 kg,220 V,100 A,60 Hz,IP21
+E86001,Satellite Communication System,Active,SATCOM,86,Company D,2000x2500x2200 mm,400 kg,N/A,N/A,N/A,IP32
+E86002,Shipborne UHF Radio,Maintenance,UHFR,86,Company D,800x600x300 mm,20 kg,N/A,N/A,N/A,IP56
+E86003,Public Address System,Operational,PAS,86,Company D,300x500x200 mm,12 kg,N/A,N/A,N/A,IP44
+E87001,Alarm Monitoring System,Active,AMS,87,Company E,1200x1800x300 mm,50 kg,N/A,N/A,N/A,IP55
+E87002,Tank Gauging System,Operational,TGS,87,Company E,800x1200x150 mm,40 kg,N/A,N/A,N/A,IP42
+E87003,Fire & Gas Detection System,Installation,F&G,87,Company E,750x1150x250 mm,30 kg,N/A,N/A,N/A,IP54
+E88001,Main Earthing Busbar,Active,MEB,88,Company F,3000x50x10 mm,15 kg,N/A,N/A,N/A,N/A
+E88002,Lightning Protection Unit,Operational,LPU,88,Company F,1200x2000x300 mm,100 kg,N/A,N/A,N/A,IP65
+E88003,Cathodic Protection System,Maintenance,CPS,88,Company F,2000x3000x250 mm,200 kg,N/A,N/A,N/A,IP55
+E89001,Generic HVAC Unit,Active,HVAC,89,Area Y,2500x4000x2000 mm,500 kg,N/A,N/A,N/A,IP44
+E89002,Provision Refrigeration System,Operational,PRF,89,Area Y,1500x3000x1800 mm,800 kg,N/A,N/A,N/A,IP22
+E89003,Ship Information Management System,Concept,SIMS,89,Area Y,1200x800x300 mm,25 kg,N/A,N/A,N/A,IP40"

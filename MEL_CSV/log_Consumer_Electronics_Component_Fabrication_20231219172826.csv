@@ -1,0 +1,22 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer T1,Active,Transformer,80,Company X,1500x2500x2200 mm,3500 kg,132 kV,1500 A,50 Hz,IP53
+E80003,Disconnector DS1,Active,Disconnector,80,Company X,800x2000x1800 mm,1150 kg,138 kV,1200 A,50 Hz,IP52
+E81001,Medium Voltage Panel,Active,Switchgear,81,Company X,700x1600x1800 mm,850 kg,3.3 kV,630 A,50 Hz,IP54
+E81002,Motor Control Center,Active,MCC,81,Company X,4000x1500x2000 mm,5000 kg,4.16 kV,1200 A,60 Hz,IP42
+E81003,Transformer T2,Maintenance,Transformer,81,Company X,1600x2600x2100 mm,4000 kg,6 kV,1250 A,60 Hz,IP55
+E82001,Low Voltage Distribution Board,Active,Switchboard,82,Area Y,2200x600x2000 mm,720 kg,400 V,1600 A,50 Hz,IP21
+E82002,Variable Frequency Drive,Active,VFD,82,Area Y,300x800x600 mm,150 kg,230 V,300 A,Variable,IP20
+E82003,UPS Module,Active,UPS,82,Area Y,300x500x600 mm,45 kg,220 V,200 A,50 Hz,IP22
+E83001,Emergency Diesel Generator 1,Active,Generator,83,Company X,4700x1800x2300 mm,8700 kg,-,-,50 Hz,IP23
+E83002,Emergency Lighting System,Active,Lighting,83,Area Y,1000x500x200 mm,150 kg,-,-,-,IP65
+E84001,Essential Power Supply Unit,Active,PSU,84,Area Y,600x400x250 mm,55 kg,24 V DC,10 A,-,IP67
+E85001,Nickel-Cadmium Battery Bank,Active,Battery Bank,85,Company X,2000x600x1450 mm,3000 kg,110 V DC,-,-,IP30
+E85002,Static Transfer Switch,Active,STS,85,Area Y,800x400x1000 mm,120 kg,120 V AC,-,60 Hz,IP51
+E86001,Main Distribution Frame,Active,MDF,86,Company X,2200x700x2100 mm,850 kg,-,-,-,IP20
+E86002,Fibre Optic Patch Panel,Active,FOPP,86,Area Y,482.6x300x44 mm,5 kg,-,-,-,IP00
+E87001,Process Control System Console,Active,PCS,87,Company X,1200x700x1800 mm,350 kg,-,-,-,IP34
+E87002,Gas Detection System,Active,GDS,87,Area Y,500x500x150 mm,6 kg,-,-,-,IP65
+E88001,Grounding Rod Assembly,Active,Earthing Rod,88,Company X,1500 mm length,10 kg,-,-,-,-
+E88002,Lightning Arrester Panel,Active,LA Panel,88,Area Y,600x300x2100 mm,90 kg,-,-,-,IP54
+E89001,Unspecified Electronic Module,Active,OEM,89,Company X,300x400x150 mm,20 kg,-,-,-,IP50"

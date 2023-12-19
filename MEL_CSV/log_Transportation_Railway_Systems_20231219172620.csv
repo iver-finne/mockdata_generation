@@ -1,11 +1,22 @@
 "Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
-E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
-T81001,Transformer Unit,Operational,Transformer,81,Company Y,2500x4000x3200 mm,8000 kg,4.5 kV,1000 A,50 Hz,IP44
-P82001,Main Distribution Panel,Active,Panel,82,Company Z,2000x5000x600 mm,1000 kg,690 V,1600 A,60 Hz,IP42
-G83001,Diesel Generator Set,Emergency,Generator,83,Company X,3500x1500x2500 mm,4500 kg,NA,NA,NA,IP23
-B84001,Emergency Lighting Unit,Maintenance,Lights,84,Company A,1000x300x500 mm,50 kg,110 V,NA,NA,IP65
-B85001,Lead Acid Battery Bank,Operational,Battery Bank,85,Company B,2000x600x1800 mm,1500 kg,220 V,500 Ah,NA,IP20
-C86001,Fiber Optic Cable,Active,Cabling,86,Company C,NA,NA,NA,NA,NA,IP68
-S87001,Pressure Sensor,Operational,Sensor,87,Company D,50x50x100 mm,0.5 kg,24 V,100 mA,NA,IP67
-L88001,Lightning Arrestor,Active,Arrestor,88,Company E,100x200x500 mm,10 kg,1000 kV,NA,NA,IP20
-X89001,Generic Equipment,Not Defined,Not Defined,89,Company X,NA,NA,NA,NA,NA,NA"
+E80001,High Voltage Switchgear,Active,AIS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Power Transformer,Active,Power Transformer,80,Company X,3150x4500x4200 mm,12500 kg,138 kV,2500 A,60 Hz,IP55
+E80003,Isolation Breaker,Active,Disconnector,80,Company X,800x2000x1600 mm,1200 kg,130 kV,3000 A,60 Hz,IP42
+E80004,High Voltage Busbar,Active,Busbar,80,Company X,200x100x6000 mm,500 kg,150 kV,3200 A,50 Hz,IP00
+E81001,Medium Voltage Switchgear,Maintenance,MV Switchboard,81,Company X,2000x5000x2600 mm,3500 kg,4.16 kV,4500 A,50 Hz,IP42
+E81002,Medium Voltage Transformer,Active,Power Transformer,81,Company X,2150x3500x3000 mm,8500 kg,4 kV,2100 A,60 Hz,IP23
+E81003,Power Capacitor Unit,Standby,Capacitor Bank,81,Company X,1500x1500x2000 mm,1600 kg,5.5 kV,500 kVAR,50 Hz,IP21
+E82001,Low Voltage Main Distributor,Active,Panelboard,82,Company X,800x1200x600 mm,300 kg,480 V,3200 A,60 Hz,IP65
+E82002,Low Voltage Transformer,Active,Power Transformer,82,Company X,900x1200x1800 mm,1500 kg,400 V,800 A,50 Hz,IP44
+E82003,AC Motor Control Center,Active,MCC,82,Company X,2000x6000x2200 mm,2500 kg,690 V,3000 A,50 Hz,IP54
+E83001,Emergency Diesel Generator,Active,Generator,83,Company X,4500x16000x5500 mm,30000 kg,-,-,-,IP23
+E84001,Uninterruptible Power Supply,Active,UPS,84,Company X,600x800x2200 mm,400 kg,-,-,-,IP20
+E85001,Nickel-Cadmium Battery Bank,Active,Battery Bank,85,Company X,1200x600x1800 mm,250 kg,110 V,500 Ah,-,IP22
+E86001,Fiber Optic Communication Panel,Active,Communication Equipment,86,Company X,800x1200x600 mm,200 kg,-,-,-,IP55
+E86002,Public Address System,Active,PA System,86,Company X,600x1000x500 mm,150 kg,-,-,-,IP44
+E87001,Programmable Logic Controller,Active,PLC,87,Company X,400x800x200 mm,20 kg,-,-,-,IP66
+E87002,Distributed Control System,Active,DCS,87,Company X,2000x5000x2400 mm,1200 kg,-,-,-,IP54
+E88001,Lightning Arrestor,Active,LA,88,Company X,300x300x1000 mm,70 kg,150 kV,-,-,IP68
+E88002,Grounding Rod Installation,Active,Grounding Equipment,88,Company X,25x3000 mm,6 kg,-,-,-,Non-rated
+E89001,Track Monitoring Device,Under Test,Sensor,89,Area Y,150x100x50 mm,1.5 kg,-,-,-,IP67
+E89002,Wireless Signal Receiver,Active,Communication Equipment,89,Area Y,200x150x80 mm,0.8 kg,-,-,-,IP65"

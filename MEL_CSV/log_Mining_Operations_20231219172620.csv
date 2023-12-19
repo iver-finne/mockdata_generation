@@ -1,0 +1,51 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Synchronous Generator,Active,Generator,80,Company X,3500x4500x3000 mm,26000 kg,13.8 kV,1250 A,60 Hz,IP23
+E80003,Power Transformer,Operational,Transformer,80,Company X,4000x8000x3500 mm,31000 kg,220 kV,909 A,50 Hz,IP55
+E80004,Gas Insulated Switchgear,Operational,GIS,80,Company X,2500x7000x3000 mm,12000 kg,132 kV,NA,NA,IP65
+E80005,Step-up Transformer,Maintenance,Transformer,80,Company X,4500x9000x4000 mm,37000 kg,132 kV,1200 A,60 Hz,IP54
+E81001,Substation Control System,Active,SCS,81,Company X,1500x4000x2000 mm,5000 kg,6.6 kV,NA,50 Hz,IP40
+E81002,Distribution Transformer,Operational,Transformer,81,Company X,2500x6000x2500 mm,10000 kg,11 kV,500 A,60 Hz,IP54
+E81003,Medium Voltage Cables,Active,Cable,81,Company X,NA,NA,3 kV,NA,50/60 Hz,IP68
+E81004,Switchboard,Active,Panel,81,Company X,2000x5000x1000 mm,4000 kg,3.3 kV,800 A,60 Hz,IP20
+E81005,Motor Control Center,Operational,MCC,81,Company X,2200x5200x2200 mm,6200 kg,4.16 kV,1000 A,50 Hz,IP42
+E82001,Circuit Breaker,Active,CB,82,Company X,800x2000x1500 mm,750 kg,690 V,2500 A,50 Hz,IP52
+E82002,Low Voltage Transformer,Operational,Transformer,82,Company X,1200x2400x1600 mm,1600 kg,400 V,125 A,60 Hz,IP55
+E82003,Low Voltage Control Panel,Active,LVCP,82,Company X,2000x5000x1200 mm,4500 kg,230 V,400 A,50 Hz,IP43
+E82004,Uninterrupted Power Supply,Operational,UPS,82,Company X,600x1600x800 mm,300 kg,220 V,100 A,50 Hz,IP20
+E82005,Power Distribution Unit,Active,PDU,82,Company X,500x1500x500 mm,150 kg,110 V,16 A,60 Hz,IP22
+E83001,Diesel Generator Set,Emergency,DG Set,83,Company Y,3500x8000x2500 mm,8500 kg,230 V,200 A,50 Hz,IP23
+E83002,Fire Pump Engine Generator,Operational,FPEG,83,Company Y,2500x4000x2000 mm,3200 kg,400 V,150 A,60 Hz,IP55
+E83003,Emergency Lighting Inverter,Active,Inverter,83,Company Y,500x1200x400 mm,100 kg,240 V,80 A,50 Hz,IP65
+E83004,Standby Power System,Operational,SPS,83,Company Y,1200x3000x1000 mm,1500 kg,120 V,40 A,60 Hz,IP44
+E83005,Critical Power Distribution Unit,Active,CPDU,83,Company Y,1000x2000x500 mm,500 kg,415 V,60 A,50 Hz,IP22
+E84001,Emergency Diesel Generator,Active,EDG,84,Company Y,4000x8500x3500 mm,9500 kg,440 V,300 A,60 Hz,IP23
+E84002,Emergency Power Cable,Operational,Cable,84,Company Y,NA,NA,380 V,NA,50/60 Hz,IP68
+E84003,Emergency Distribution Panel,Active,EDP,84,Company Y,1000x2000x600 mm,800 kg,220 V,150 A,50 Hz,IP54
+E84004,Emergency Lighting System,Operational,ELS,84,Company Y,NA,NA,230 V,NA,60 Hz,IP66
+E84005,Black Start Generator,Active,BSG,84,Company Y,3000x7000x2500 mm,12000 kg,690 V,500 A,50 Hz,IP55
+E85001,Industrial Battery System,Operational,IBS,85,Company Y,1000x3000x1200 mm,3000 kg,48 V,400 A,NA,IP22
+E85002,Power Backup Unit,Active,PBU,85,Company Y,800x800x600 mm,200 kg,240 V,100 A,NA,IP20
+E85003,Uninterruptable Power Module,Active,UPM,85,Company Y,500x1000x500 mm,150 kg,110 V,50 A,NA,IP65
+E85004,No-Break Power Supply,Operational,NBPS,85,Company Y,700x1500x700 mm,500 kg,120 V,80 A,NA,IP42
+E85005,Battery Charger Panel,Active,BCP,85,Company Y,600x1200x400 mm,120 kg,125 V,60 A,NA,IP54
+E86001,Fiber Optic Network Panel,Active,FONP,86,Area Y,800x1200x300 mm,80 kg,NA,NA,NA,NA
+E86002,Telephone Exchange System,Operational,TES,86,Area Y,1200x2400x600 mm,300 kg,NA,NA,NA,IP20
+E86003,Wireless Communication System,Active,WCS,86,Area Y,NA,NA,NA,NA,NA,NA
+E86004,Public Address System,Operational,PAS,86,Area Y,600x800x200 mm,50 kg,NA,NA,NA,IP44
+E86005,Radio Base Station,Active,RBS,86,Area Y,1000x2000x500 mm,180 kg,NA,NA,NA,IP65
+E87001,Pressure Transmitter,Active,PT,87,Area Z,100x150x100 mm,1 kg,24 V,20 mA,NA,IP67
+E87002,Temperature Sensor,Operational,TS,87,Area Z,80x130x90 mm,0.5 kg,24 V,4-20 mA,NA,IP65
+E87003,Level Switch,Active,LS,87,Area Z,120x200x160 mm,1.5 kg,24 V,16 mA,NA,IP68
+E87004,Flow Meter,Operational,FM,87,Area Z,200x400x300 mm,12 kg,24 V,20 mA,NA,IP67
+E87005,HMI Touch Panel,Active,HMI,87,Area Z,300x400x150 mm,5 kg,24 V,100 mA,NA,IP66
+E88001,Earthing Rod,Active,ER,88,Area Z,NA,3 kg,NA,NA,NA,NA
+E88002,Lightning Arrester,Operational,LA,88,Area Z,100x200x50 mm,2 kg,NA,NA,NA,IP67
+E88003,Grounding Cable,Active,GC,88,Area Z,NA,NA,NA,NA,NA,IP00
+E88004,Earth Pit,Operational,EP,88,Area Z,1000x1000x1000 mm,100 kg,NA,NA,NA,IP68
+E88005,Bonding Clamp,Active,BC,88,Area Z,100x150x10 mm,0.3 kg,NA,NA,NA,IP00
+E89001,System Interface Unit,Inactive,SIU,89,Area Z,200x300x150 mm,10 kg,NA,NA,NA,IP54
+E89002,Generic Equipment Standby,Standby,Unknown,89,Area Z,NA,NA,NA,NA,NA,NA
+E89003,Non-specified Sensing Device,Active,NSD,89,Area Z,150x100x50 mm,0.2 kg,NA,NA,NA,IP67
+E89004,Undetermined Device Type,Evaluation,UDT,89,Area Z,100x100x100 mm,0.5 kg,NA,NA,NA,IP50
+E89005,Not Applicable Item,Decommissioned,NAI,89,Area Z,NA,NA,NA,NA,NA,NA"

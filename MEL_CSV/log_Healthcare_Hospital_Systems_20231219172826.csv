@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer Station,Active,Transformer,80,Company X,2500x5000x3000 mm,10000 kg,132 kV,1200 A,60 Hz,IP42
+E81001,Medium Voltage Distribution Panel,Active,Distribution Panel,81,Company X,2000x4500x2200 mm,3500 kg,3.3 kV,2500 A,50 Hz,IP55
+E81002,Sectionalizer,Active,Sectionalizer,81,Company X,1500x1500x2000 mm,450 kg,4.16 kV,800 A,60 Hz,IP52
+E82001,Low Voltage Main Distribution Board,Active,Main Distribution Board,82,Company X,2000x2000x600 mm,500 kg,415 V,4000 A,50 Hz,IP42
+E82002,Backup Low Voltage Panel,Active,Backup Panel,82,Company X,1600x2000x700 mm,600 kg,230 V,1500 A,50 Hz,IP41
+E83001,Emergency Diesel Generator,Active,Diesel Generator,83,Company X,3500x12000x4000 mm,12000 kg,13.8 kV,2000 A,50/60 Hz,IP23
+E83002,Uninterruptible Power Supply (10kVA),Active,UPS,83,Company X,600x1000x1500 mm,300 kg,N/A,N/A,50/60 Hz,IP20
+E84001,Emergency Light Fitting,Active,Light Fitting,84,Company X,300x300x100 mm,5 kg,N/A,N/A,50/60 Hz,IP65
+E84002,Fire Pump Engine,Active,Engine,84,Company X,2000x3000x1500 mm,1500 kg,N/A,N/A,N/A,IP54
+E85001,No-Break Battery System,Active,Battery System,85,Company X,2000x500x1500 mm,800 kg,48 V,100 A,N/A,IP20
+E85002,Static Inverter,Active,Inverter,85,Company X,500x600x1000 mm,40 kg,230 V,15 A,50/60 Hz,IP21
+E86001,Data Center Network Switch,Active,Network Switch,86,Company X,440x350x44 mm,4 kg,48 V,1 A,N/A,IP20
+E86002,Structured Cabling System,Active,Cabling,86,Company X,50000x0x0 mm,100 kg,N/A,N/A,N/A,IP00
+E87001,Distributed Control System,Active,Control System,87,Company X,6000x2000x2200 mm,5000 kg,N/A,N/A,N/A,IP54
+E87002,Gas Detection System,Active,Gas Detection,87,Company X,1500x300x300 mm,15 kg,N/A,N/A,N/A,IP66
+E88001,Copper Tape Earthing System,Active,Earthing,88,Company X,100000x30x3 mm,200 kg,N/A,N/A,N/A,IP00
+E88002,Lightning Protection Rod,Active,Lightning Protection,88,Company X,2000x20x20 mm,5 kg,N/A,N/A,N/A,IP00
+E89001,Nodes Connectivity Interface,Active,Connectivity Module,89,Company X,N/A,N/A,N/A,N/A,N/A,N/A
+E89002,Custom System Integration Module,Active,Integration Module,89,Company X,N/A,N/A,N/A,N/A,N/A,N/A"

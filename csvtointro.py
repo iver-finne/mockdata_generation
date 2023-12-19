@@ -6,10 +6,10 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 import glob
 
-api_key = "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"
+api_key = "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"
 model = "gpt-4-1106-preview"
 intro_file = 'csvtointro.txt'
-csv_dir = "./MEL"
+csv_dir = "./MEL_CSV"
 md_dir = "./MEL_MD"
 client = OpenAI(api_key=api_key)
 

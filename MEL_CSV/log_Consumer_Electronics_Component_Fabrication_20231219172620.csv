@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer Station,Operational,Transformer,80,Company X,3500x4000x3500 mm,12000 kg,132 kV,5000 A,60 Hz,IP44
+E81001,Distribution Transformer,Maintenance,Transformer,81,Company X,2000x1500x2000 mm,4000 kg,3.3 kV,2500 A,60 Hz,IP23
+E81002,Medium Voltage Panel,Active,Distribution Panel,81,Company X,2200x5000x2200 mm,3500 kg,6.6 kV,1500 A,50 Hz,IP42
+E82001,Low Voltage Switchboard,Operational,Switchboard,82,Area Y,1800x1000x1800 mm,800 kg,400 V,3000 A,50 Hz,IP55
+E82002,AC Combiner Box,Active,Combiner Box,82,Area Y,1000x800x600 mm,150 kg,400 V,1000 A,60 Hz,IP65
+E83001,Diesel Generator,Under Repair,Generator,83,Company X,6000x2000x2500 mm,8000 kg,400 V,2000 A,50 Hz,IP23
+E83002,UPS System,Operational,UPS,83,Area Y,1500x750x1500 mm,200 kg,240 V,500 A,60 Hz,IP21
+E84001,Emergency Power Inverter,Active,Inverter,84,Company X,500x300x600 mm,50 kg,230 V,100 A,50 Hz,IP20
+E84002,Backup Power Supply,Operational,Power Supply,84,Area Y,400x250x500 mm,30 kg,110 V,50 A,60 Hz,IP20
+E85001,Battery Rack System,Active,Battery System,85,Company X,2000x600x2000 mm,1000 kg,48 V,10000 Ah,N/A,IP20
+E85002,Industrial UPS Battery,In Stock,Battery,85,Area Y,800x600x1000 mm,500 kg,110 V,150 Ah,N/A,IP30
+E86001,Fiber Optic Distribution Frame,Operational,Fiber Optic Distribution,86,Company X,2200x1500x300 mm,200 kg,N/A,N/A,N/A,IP54
+E86002,Telecom Power Supply,Active,Power Supply,86,Area Y,500x350x200 mm,5 kg,48 V,10 A,50 Hz,IP20
+E87001,Process Control Server,In Maintenance,Server,87,Company X,600x800x200 mm,50 kg,N/A,N/A,N/A,IP50
+E87002,Safety Instrumented System,Operational,Safety System,87,Area Y,1600x1500x600 mm,800 kg,N/A,N/A,N/A,IP65
+E88001,Grounding Rod,Active,Grounding Equipment,88,Company X,N/A,N/A,N/A,N/A,N/A,N/A
+E88002,Surge Protection Device,Stocked,Surge Protector,88,Area Y,150x100x75 mm,1 kg,240 V,N/A,N/A,IP67
+E89001,Industrial Monitoring Camera,Active,Camera,89,Company X,150x200x150 mm,2 kg,N/A,N/A,N/A,IP66
+E89002,Vibration Sensor,In Calibration,Sensor,89,Area Y,100x50x25 mm,0.2 kg,N/A,N/A,N/A,IP68"

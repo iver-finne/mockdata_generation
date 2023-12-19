@@ -2,12 +2,16 @@ import os
 from openai import OpenAI
 from datetime import datetime
 
-api_key = "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"
-model = "gpt-4-1106-preview"
 execsum_file = 'execsum.txt'
+
+draft_dir = "./DRAFT"
+
+
+api_key = "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"
+model = "gpt-4-1106-preview"
+intro_file = 'csvtointro.txt'
 csv_dir = "./MEL_CSV"
 md_dir = "./MEL_MD"
-draft_dir = "./DRAFT"
 client = OpenAI(api_key=api_key)
 
 def read_file_contents(file_path):
@@ -40,9 +44,16 @@ def process_files(unique_name):
 
     write_response_to_draft(unique_name, md_content, response)
 
-def main(unique_name):
-    process_files(unique_name)
+def main():
+    csv_files = os.listdir(csv_dir)
+    md_files = os.listdir(md_dir)
+
+    for csv_file in csv_files:
+        unique_name = os.path.splitext(csv_file)[0]
+        if f"{unique_name}.md" in md_files:
+            process_files(unique_name)
+        else:
+            print(f"MD file missing for {unique_name}")
 
 if __name__ == "__main__":
-    unique_name = input("Enter the unique file name: ")
-    main(unique_name)
+    main()

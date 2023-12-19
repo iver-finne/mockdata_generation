@@ -1,0 +1,24 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Gas Insulated Substation,Active,GIS,80,Company X,2500x4200x2600 mm,3500 kg,132 kV,1500 A,50 Hz,IP65
+E80003,Power Transformer,Active,Transformer,80,Company X,3500x4500x3100 mm,12000 kg,132 kV,3000 A,60 Hz,IP54
+E80004,High Voltage Junction Box,Active,Junction Box,80,Company X,800x600x600 mm,150 kg,138 kV,1500 A,60 Hz,IP55
+E81001,Medium Voltage Switchboard,Active,Switchboard,81,Company X,5000x2000x2400 mm,5000 kg,6 kV,1200 A,60 Hz,IP54
+E81002,Medium Voltage Motor Control Center,Active,MCC,81,Company X,2200x600x2100 mm,1100 kg,4.16 kV,800 A,50 Hz,IP52
+E81003,Soft Starter Panel,Active,Control Panel,81,Company X,700x500x300 mm,100 kg,3.3 kV,500 A,50 Hz,IP41
+E82001,Low Voltage Distribution Panel,Active,Distribution Panel,82,Company X,800x400x2000 mm, 300 kg,400 V,800 A,50 Hz,IP54
+E82002,Low Voltage Drive,Active,AC Drive,82,Company X,300x300x600 mm,25 kg,230 V,100 A,50 Hz,IP20
+E82003,UPS System,Active,UPS,82,Company X,800x600x1800 mm,500 kg,240 V,800 A,50 Hz,IP21
+E83001,Diesel Generator Set,Active,Generator Set,83,Company X,6000x2300x2500 mm,10000 kg,440 V,1500 A,60 Hz,IP23
+E83002,Emergency Lighting System,Active,Lighting System,83,Company X,300x300x100 mm,5 kg,220 V,100 mA,50 Hz,IP65
+E84001,Emergency Diesel Generator,Active,Generator,84,Company X,6500x2400x2600 mm,8500 kg,690 V,1100 A,60 Hz,IP23
+E84002,Fire Water Pump Diesel Engine,Active,Diesel Engine,84,Company X,3000x1500x1800 mm,4000 kg,690 V,800 A,60 Hz,IP68
+E85001,Station Battery Bank,Active,Battery Bank,85,Company X,1500x800x1200 mm,3200 kg,110 V,DC,Not Applicable,IP30
+E85002,Rectifier and Charger Unit,Active,Rectifier,85,Company X,800x600x1800 mm,250 kg,220 V,50 A,50 Hz,IP22
+E86001,Fiber Optic Distribution Panel,Active,Communication Panel,86,Company X,600x400x2200 mm,100 kg,Not Applicable,Not Applicable,Not Applicable,IP54
+E86002,Radio Communication System,Active,Communication System,86,Company X,2000x800x600 mm,150 kg,Not Applicable,Not Applicable,Not Applicable,IP65
+E87001,Programmable Logic Controller,Active,PLC,87,Company X,600x500x400 mm,30 kg,24 V,5 A,Not Applicable,IP20
+E87002,Gas Detection System,Active,Detection System,87,Company X,1000x600x400 mm,150 kg,24 V,2 A,Not Applicable,IP67
+E88001,Grounding System,Active,Grounding,88,Company X,Variable,Variable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+E88002,Surge Protection Device,Active,Protection Device,88,Company X,200x150x100 mm,2 kg,690 V,20 kA,Not Applicable,IP20
+E89001,Temporary Construction Equipment,Not Operational,General,89,Company X,Variable,Variable,Variable,Variable,Variable,Not Applicable"

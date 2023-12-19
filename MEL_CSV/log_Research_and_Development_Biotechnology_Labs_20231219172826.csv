@@ -1,0 +1,31 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Step-up Transformer,Operational,Transformer,80,Company X,1500x2500x2600 mm,3500 kg,145 kV to 15 kV,1200 A,50 Hz,IP55
+E80003,Power Distribution Panel,Active,Panel Board,80,Company X,800x2000x600 mm,800 kg,13.8 kV,800 A,60 Hz,IP51
+E81001,Medium Voltage Substation,Maintenance,Substation,81,Company X,5000x8000x3000 mm,14000 kg,3.3 kV,3000 A,60 Hz,IP42
+E81002,MV Circuit Breaker,Operational,Circuit Breaker,81,Company X,1000x2400x2000 mm,1000 kg,3.3 kV,2500 A,50 Hz,IP54
+E81003,MV Electric Meter,Active,Electrical Meter,81,Company X,300x500x200 mm,15 kg,3.3 kV,500 A,60 Hz,IP40
+E82001,Low Voltage Transformer,Service,Transformer,82,Company X,1000x2000x1800 mm,1500 kg,440 V to 220 V,600 A,60 Hz,IP43
+E82002,LV Distribution Board,Operational,Distribution Board,82,Company X,600x1200x800 mm,500 kg,415 V,800 A,50 Hz,IP65
+E82003,Uninterruptible Power Supply (UPS),Active,UPS,82,Company X,400x800x400 mm,50 kg,240 V,500 A,50 Hz,IP20
+E83001,Essential Diesel Generator,Operational,Generator,83,Company X,2000x4000x2500 mm,5000 kg,13.8 kV,1500 A,50 Hz,IP23
+E83002,Critical Load Panel,Active,Panel Board,83,Company X,800x1600x600 mm,700 kg,380 V,1000 A,60 Hz,IP52
+E83003,Automatic Transfer Switch,Maintenance,Transfer Switch,83,Company X,500x1000x300 mm,50 kg,240 V,400 A,50 Hz,IP65
+E84001,Emergency Power Off System,Active,EPO System,84,Company X,300x300x100 mm,5 kg,24 V,10 A,DC,N/A
+E84002,Standby Diesel Generator,Service,Generator,84,Company X,2200x4500x2600 mm,6000 kg,13.8 kV,2000 A,50 Hz,IP23
+E84003,Emergency Lighting Inverter,Operational,Inverter,84,Company X,400x600x200 mm,20 kg,230 V,100 A,50 Hz,IP20
+E85001,Battery Energy Storage System,Active,BESS,85,Company X,2000x5000x3000 mm,10000 kg,N/A,N/A,DC,IP44
+E85002,UPS Battery Pack,Maintenance,Battery Pack,85,Company X,500x1000x600 mm,200 kg,48 V,1000 Ah,DC,IP20
+E85003,Static Transfer Switch,Operational,Transfer Switch,85,Company X,600x800x400 mm,30 kg,230 V,500 A,60 Hz,IP55
+E86001,Fiber Optic Distribution Frame,Active,Distribution Frame,86,Company X,300x700x200 mm,20 kg,N/A,N/A,N/A,IP30
+E86002,Data Networking Switch,Service,Network Switch,86,Company X,440x350x44 mm,4 kg,N/A,N/A,N/A,IP20
+E86003,Telecommunication Rack,Operational,Rack,86,Company X,600x2000x1000 mm,100 kg,N/A,N/A,N/A,IP55
+E87001,Programmable Logic Controller,Service,PLC,87,Company X,300x500x300 mm,7 kg,24 V DC,10 A,DC,IP65
+E87002,Distributed Control System,Operational,DCS,87,Company X,600x1200x800 mm,150 kg,120 V AC,500 mA,60 Hz,IP20
+E87003,Gas Detection System,Active,Gas Detector,87,Company X,200x200x100 mm,1 kg,24 V DC,250 mA,DC,IP67
+E88001,Copper Earthing Rod,Active,Earthing Rod,88,Company X,20x3000 mm,5 kg,N/A,N/A,N/A,N/A
+E88002,Lightning Arrester,Operational,Arrester,88,Company X,100x200x50 mm,2 kg,145 kV,10 kA,50 Hz,IP68
+E88003,Surge Protection Device,Maintenance,SPD,88,Company X,100x100x50 mm,0.5 kg,230 V,20 kA,50 Hz,IP20
+E89001,Heat Exchanger,Active,Heat Exchanger,89,Company X,1000x2000x1500 mm,850 kg,N/A,N/A,N/A,IP54
+E89002,Lab Refrigeration System,Service,Refrigerator,89,Company X,600x600x2000 mm,120 kg,220 V,2 A,60 Hz,IP22
+E89003,Bioprocess Skid,Operational,Process Skid,89,Company X,1500x2500x1800 mm,2000 kg,N/A,N/A,N/A,IP55"

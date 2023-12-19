@@ -1,0 +1,22 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80101,Transformer T1,Operational,Power Transformer,80,Company X,3500x3000x4500 mm,12500 kg,110 kV,1500 A,60 Hz,IP23
+E80102,Gas-Insulated Switchgear,Active,GIS,80,Company X,2200x1800x2600 mm,6000 kg,145 kV,2500 A,50 Hz,IP65
+E80103,High Voltage Motor,Operational,Asynchronous Motor,80,Company X,1000x2000x1500 mm,3000 kg,6.6 kV,450 A,60 Hz,IP55
+E80104,Circuit Breaker CB1,Active,Air Circuit Breaker,80,Company X,2000x1500x2400 mm,2500 kg,132 kV,2000 A,50 Hz,IP54
+E80201,Switchboard SB1,Operational,Metal-Clad Switchboard,81,Company X,3200x1800x2400 mm,4200 kg,3 kV,3150 A,50 Hz,IP41
+E80202,Medium Voltage Motor M1,Maintenance Required,Induction Motor,81,Company X,850x1500x1200 mm,2300 kg,4.16 kV,350 A,60 Hz,IP44
+E80203,Distribution Panel P1,Active,Panel Board,81,Company X,1200x800x600 mm,200 kg,4 kV,800 A,50 Hz,IP42
+E80301,Low Voltage Transformer,Operational,Dry Type Transformer,82,Company X,1600x1200x1400 mm,1500 kg,480 V,1250 A,60 Hz,IP20
+E80302,Uninterruptible Power Supply,Active,UPS,82,Company X,600x800x1600 mm,300 kg,230 V,100 A,50 Hz,IP22
+E80303,Power Distribution Unit,Operational,PDU,82,Company X,480x600x2200 mm,100 kg,120 V,80 A,60 Hz,IP20
+E80401,Emergency Diesel Generator,Active,Diesel Generator Set,84,Company X,6000x2500x3000 mm,8000 kg,480 V,1500 A,50 Hz,IP23
+E80402,Emergency Power Panel,Active,Power Distribution Panel,84,Company X,2000x800x2000 mm,500 kg,400 V,1000 A,50 Hz,IP54
+E80403,Battery Backup Unit,Operational,Battery Cabinet,85,Company X,1000x500x1800 mm,400 kg,110 V,500 A,DC,IP20
+E80501,Lead Acid Battery Bank,Active,Battery Bank,85,Company X,2000x600x1800 mm,1500 kg,48 V,2000 Ah,DC,IP21
+E80601,Fiber Optic Transceiver,Active,Network Equipment,86,Company X,80x120x30 mm,0.4 kg,5 V,100 mA,DC,IP30
+E80602,Microwave Communication Link,Operational,Wireless Communication System,86,Company X,500x300x200 mm,15 kg,12 V,1 A,DC,IP65
+E80701,Programmable Logic Controller PLC1,Active,PLC,87,Company X,300x500x150 mm,7 kg,24 V,10 A,DC,IP65
+E80702,Field Instrument FI1,Calibration Required,Transmitter,87,Company X,160x80x55 mm,0.5 kg,24 V,20 mA,DC,IP67
+E80801,Copper Earthing Rod,Active,Earthing Material,88,Company X,1500x14x14 mm,5 kg,0 V,0 A,0 Hz,Not Applicable
+E80802,Advanced Lightning Arrester,Operational,Surge Arrester,88,Company X,300x200x150 mm,10 kg,1000 V,20 kA,50 Hz,IP68
+E80901,Generic Processing Unit,Under Design,Processing Module,89,Company X,Dimensions TBD,Weight TBD,Voltage TBD,Current TBD,Frequency TBD,IP Rating TBD"

@@ -1,0 +1,21 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,ACS,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Transformer Station,Active,Transformer,80,Company X,3500x5000x4500 mm,12000 kg,132 kV,NA,50 Hz,IP54
+E81001,Medium Voltage Distribution Panel,Active,Distribution Board,81,Company X,2000x6000x2000 mm,5000 kg,11 kV,1200 A,60 Hz,IP55
+E81002,Medium Voltage Cable,Active,Cable,81,Company X,NA,NA,3.3 kV,500 A,60 Hz,NA
+E82001,Low Voltage Switchboard,Active,Switchboard,82,Company Y,800x2000x1800 mm,1500 kg,690 V,2500 A,50 Hz,IP41
+E82002,Industrial Generator,Active,Generator,82,Company Y,NA,20000 kg,480 V,NA,50 Hz,IP23
+E83001,Emergency Diesel Generator,Active,Diesel Generator,83,Company Z,4000x14000x3000 mm,30000 kg,NA,NA,50 Hz,IP56
+E83002,Essential UPS System,Active,UPS,83,Company Z,1600x800x2200 mm,1000 kg,240 V,NA,50 Hz,IP20
+E84001,Auxiliary Gas Turbine,Active,Gas Turbine,84,Company X,NA,NA,NA,NA,NA,NA
+E84002,Emergency Lighting System,Active,Lighting,84,Company X,NA,NA,NA,NA,NA,IP65
+E85001,Battery Backup Rack,Active,Backup System,85,Company Y,2000x1000x2000 mm,800 kg,110 V,NA,DC,IP20
+E85002,UPS Maintenance Bypass Panel,Active,Panel,85,Company Y,500x1500x2000 mm,300 kg,240 V,100 A,60 Hz,IP22
+E86001,Fiber Optic Distribution Frame,Active,Frame,86,Company Z,2200x500x2600 mm,180 kg,NA,NA,NA,IP30
+E86002,Microcell BTS,Active,Base Transceiver Station,86,Company Z,500x500x1500 mm,60 kg,48 V,10 A,50 Hz,IP65
+E87001,Pressure Transmitter,Active,Transmitter,87,Company X,200x80x150 mm,2 kg,24 V,20 mA,DC,IP67
+E87002,Gas Detection System,Active,Detection System,87,Company X,1500x2000x1000 mm,150 kg,24V,NA,DC,IP66
+E88001,Copper Earthing Rod,Active,Rod,88,Company Y,1500x20x20 mm,10 kg,NA,NA,NA,NA
+E88002,Lightning Arrestor,Active,Arrestor,88,Company Y,NA,5 kg,NA,NA,NA,IP67
+E89001,Programmable Logic Controller,Active,Controller,89,Company Y,300x200x150 mm,4 kg,24 V,NA,DC,IP20
+E89002,Industrial Router,Active,Router,89,Company Z,440x44x210 mm,3.2 kg,5 V,1 A,DC,IP30"

@@ -1,0 +1,24 @@
+"Tag,Description,Status,Type,System,Responsible,Dimensions,Weight,Voltage,Current,Frequency,IP_Rating
+E80001,High Voltage Switchgear,Active,Switchgear,80,Company X,1200x3000x2400 mm,2000 kg,145 kV,2000 A,50 Hz,IP54
+E80002,Diesel Generator Set,Active,Generator,80,Area A,3500x1500x2000 mm,4500 kg,10 kV,500 A,60 Hz,IP23
+E80003,High Voltage Transformer,Active,Transformer,80,Company X,2500x4000x3000 mm,10000 kg,110 kV,800 A,50 Hz,IP55
+E81001,MV Power Cable,Active,Cable,81,Area B,NA,500 kg/km,3.3 kV,200 A,50 Hz,IP68
+E81002,MV Switchgear,Active,Switchgear,81,Area C,2000x5000x2200 mm,3000 kg,6 kV,1000 A,60 Hz,IP42
+E81003,MV Motor Controller,Active,Motor Control Center,81,Company Y,1600x800x2200 mm,1200 kg,3.3 kV,400 A,60 Hz,IP54
+E82001,Low Voltage Distribution Board,Active,Panel,82,Area D,800x2000x600 mm,500 kg,400 V,1600 A,50 Hz,IP65
+E82002,Power Transformer LV,Active,Transformer,82,Area E,1000x1000x1000 mm,300 kg,240 V,100 A,60 Hz,IP23
+E82003,Lighting Panel,Active,Panel,82,Company Z,600x1500x500 mm,100 kg,110 V,200 A,60 Hz,IP44
+E83001,UPS System,Active,Uninterruptible Power Supply,83,Company X,800x1600x800 mm,400 kg,220 V,500 A,50 Hz,IP20
+E83002,Emergency Lighting Inverter,Active,Inverter,83,Area F,400x800x200 mm,30 kg,110 V,20 A,60 Hz,IP30
+E84001,Emergency Generator,Dormant,Generator,84,Company Y,3000x1200x1800 mm,3500 kg,13.8 kV,300 A,60 Hz,IP21
+E84002,Emergency Diesel Generator,Active,Generator,84,Area A,5000x2000x2500 mm,7000 kg,13.8 kV,400 A,50 Hz,IP43
+E85001,Battery Charger,Active,Charger,85,Area G,500x600x300 mm,50 kg,24 V DC,100 A,DC,IP20
+E85002,DC Distribution Board,Active,Distribution Board,85,Company X,700x700x250 mm,60 kg,48 V DC,200 A,DC,IP52
+E86001,Fiber Optic Patch Panel,Active,Telecommunications,86,Area B,300x500x100 mm,2 kg,NA,NA,NA,IP20
+E86002,Microwave Radio,Active,Radio,86,Company Z,600x500x300 mm,9 kg,NA,NA,NA,IP65
+E87001,Instrumentation Control Panel,Active,Control System,87,Company Y,1000x2000x600 mm,300 kg,24 V DC,10 A,DC,IP66
+E87002,Distributed Control System,Active,DCS,87,Area C,2000x5000x2000 mm,1500 kg,110 V,50 A,60 Hz,IP55
+E88001,Grounding Rod Set,Active,Earthing,88,Area E,10x2000 mm,5 kg,NA,NA,NA,IPX8
+E88002,Surge Protection Device,Active,Protection,88,Company Z,300x400x200 mm,10 kg,230 V,20 kA,NA,IP65
+E89001,Universal Relay,Active,Relay,89,Area F,100x150x80 mm,1.5 kg,110 V,5 A,50 Hz,IP40
+E89002,Pneumatic Actuator,Active,Actuator,89,Company X,500x500x1000 mm,80 kg,NA,NA,NA,IP56"
